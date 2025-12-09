@@ -6,4 +6,5 @@
 | ------ | ------ | ------ |
 | AOSP | `aosp-` |
 | postmarketOS | `pmos-` |
+| ChromiumOS | `chromiumos-` |
 | [SoC] mainlining | `[soc]-mainline-` | `-[developer]` (opt) |
