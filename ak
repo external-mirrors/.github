@@ -1,6 +1,6 @@
-{"url":"https://gitlab.com/pvrports/pvrports.git","type":"git","repo":"pvrports"}
-{"url":"https://github.com/yuzu-emu-mirror/ext-linux-bin.git","type":"git","repo":"yuzu-ext-linux-bin","private":true,"paused":true}
-{"url":"https://gitlab.postmarketos.org/postmarketOS/buffybox.git","type":"git","repo":"buffybox"}
-{"url":"https://git.wut.ee/mikroskeem/aur-buildbot.git","type":"git","repo":"aur-buildbot"}
-{"url":"https://gitlab.com/mt6735-mainline/bootshim.git","type":"git","repo":"mt6735-mainline-bootshim"}
-{"url":"https://gitlab.postmarketos.org/mt6757-mainline/linux.git","type":"git","repo":"mt6757-mainline-linux"}
+{"url":"https://akkoma.dev/AkkomaGang/akkoma.git","type":"git","repo":"akkoma"}
+{"url":"https://gitlab.com/UniQMG/tetrio-plus.git","type":"git","repo":"tetrio-plus"}
+{"url":"https://git.citron-emu.org/citron/emulator.git","type":"git","repo":"citron","private":true,"paused":true}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/boot-deploy.git","type":"git","repo":"pmos-boot-deploy"}
+{"url":"https://github.com/yuzu-emu-mirror/Command-fix.git","type":"git","repo":"yuzu-Command-fix","private":true,"paused":true}
+{"url":"https://github.com/yuzu-emu-mirror/yuzu-android.git","type":"git","repo":"yuzu-android","private":true,"paused":true}

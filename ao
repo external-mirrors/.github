@@ -1,6 +1,6 @@
-{"url":"https://gitlab.com/mt6735-mainline/u-boot.git","type":"git","repo":"mt6735-mainline-u-boot"}
-{"url":"https://gitlab.com/mtk-mainline/mt6768/linux.git","type":"git","repo":"mt6768-mainline-linux"}
-{"url":"https://gitlab.com/kernel-firmware/linux-firmware.git","type":"git","repo":"linux-firmware"}
-{"url":"https://github.com/yuzu-emu-mirror/yuzu-games-wiki.git","type":"git","repo":"yuzu-games-wiki","private":true,"paused":true}
-{"url":"https://gitlab.com/UniQMG/tpsecore.git","type":"git","repo":"tpsecore"}
-{"url":"https://gitlab.com/exynos5-mainline/linux.git","type":"git","repo":"exynos5-mainline-linux"}
+{"url":"https://gitlab.com/ubports/development/core/lomiri.git","type":"git","repo":"lomiri"}
+{"url":"https://git.launchpad.net/ubuntu/+source/linux-nvidia-6.17","type":"git","repo":"linux-nvidia-6.17"}
+{"url":"https://github.com/citra-mirror/citra.git","type":"git","repo":"citra-mirror","private":true}
+{"url":"https://github.com/neobrain/citra.git","type":"git","repo":"citra","private":true}
+{"url":"https://gitlab.com/mtk-mainline/mt6763/linux.git","type":"git","repo":"mt6763-mainline-linux"}
+{"url":"https://https.git.savannah.gnu.org/git/cpio.git","type":"git","repo":"cpio"}

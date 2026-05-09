@@ -1,6 +1,6 @@
-{"url":"https://gitlab.com/ubports/development/core/lomiri.git","type":"git","repo":"lomiri"}
-{"url":"https://https.git.savannah.gnu.org/git/bison.git","type":"git","repo":"bison"}
-{"url":"https://github.com/yuzu-emu-mirror/discord-open-source.git","type":"git","repo":"yuzu-discord-open-source","private":true,"paused":true}
-{"url":"https://gitlab.com/mt6589-mainline/linux.git/","type":"git","repo":"mt6589-mainline-linux-tooniis"}
-{"url":"https://git.ti.com/git/graphics/omap5-sgx-ddk-linux.git","type":"git","repo":"omap5-sgx-ddk-linux"}
-{"url":"https://github.com/yuzu-emu-mirror/ext-boost.git","type":"git","repo":"yuzu-ext-boost","private":true,"paused":true}
+{"url":"https://github.com/yuzu-emu-mirror/yuzu-emu.github.io.git","type":"git","repo":"yuzu-emu.github.io","private":true,"paused":true}
+{"url":"https://git.sr.ht/~cloutier/bird.makeup","type":"git","repo":"bird.makeup","paused":true}
+{"url":"https://codeberg.org/Garnet/sgx540-reversing","type":"git","repo":"sgx540-reversing"}
+{"url":"https://gitlab.com/pvrports/pvrports.git","type":"git","repo":"pvrports"}
+{"url":"https://github.com/yuzu-emu-mirror/AppImageKit-checkrt.git","type":"git","repo":"yuzu-AppImageKit-checkrt","private":true,"paused":true}
+{"url":"https://gitlab.metager.de/open-source/MetaGer.git","type":"git","repo":"MetaGer"}
