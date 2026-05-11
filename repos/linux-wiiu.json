@@ -1,0 +1,31 @@
+[
+  {
+    "url": "https://gitlab.com/linux-wiiu/linux-loader.git",
+    "type": "git",
+    "repo": "linux-wiiu-linux-loader"
+  },   {
+    "url": "https://gitlab.com/linux-wiiu/linux-wiiu.git",
+    "type": "git",
+    "repo": "linux-wiiu"
+  },   {
+    "url": "https://gitlab.com/linux-wiiu/linux-wiiu-archive.git",
+    "type": "git",
+    "repo": "linux-wiiu-archive"
+  },   {
+    "url": "https://gitlab.com/linux-wiiu/linux-wiiu-scripts.git",
+    "type": "git",
+    "repo": "linux-wiiu-scripts"
+  },   {
+    "url": "https://gitlab.com/linux-wiiu/linux-wiiu.org.git",
+    "type": "git",
+    "repo": "linux-wiiu.org"
+  },   {
+    "url": "https://gitlab.com/linux-wiiu/petitboot-build.git",
+    "type": "git",
+    "repo": "linux-wiiu-petitboot-build"
+  },   {
+    "url": "https://gitlab.com/linux-wiiu/smp-patches.git",
+    "type": "git",
+    "repo": "linux-wiiu-smp-patches"
+  }
+]
