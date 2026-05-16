@@ -1,0 +1,6 @@
+{"url":"https://chromium.googlesource.com/chromiumos/third_party/kernel","type":"git","repo":"chromiumos-third_party-kernel"}
+{"url":"https://git.ti.com/git/graphics/omap5-sgx-ddk-um-linux.git","type":"git","repo":"omap5-sgx-ddk-um-linux","private":true}
+{"url":"https://gitlab.freedesktop.org/wayland/weston.git","type":"git","repo":"weston"}
+{"url":"https://github.com/yuzu-emu-mirror/liftinstall.git","type":"git","repo":"yuzu-liftinstall","private":true,"paused":true}
+{"url":"https://gitlab.freedesktop.org/beignet/beignet.git","type":"git","repo":"beignet"}
+{"url":"https://gitlab.com/mtk-mainline/mt6763/linux.git","type":"git","repo":"mt6763-mainline-linux"}
