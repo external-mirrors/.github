@@ -1,7 +1,7 @@
-{"url":"https://codeberg.org/grunfink/snac2","type":"git","repo":"snac2"}
-{"url":"https://gitlab.com/sm6225-mainline/linux.git","type":"git","repo":"sm6225-mainline-linux"}
-{"url":"https://gitlab.postmarketos.org/postmarketOS/postmarketos-mkinitfs.git","type":"git","repo":"postmarketos-mkinitfs"}
-{"url":"https://gitlab.com/linux-wiiu/petitboot-build.git","type":"git","repo":"linux-wiiu-petitboot-build"}
-{"url":"https://git.savannah.gnu.org/git/gnulib.git/","type":"git","repo":"gnulib"}
-{"url":"https://gitlab.com/pvrports/p-wlroots.git","type":"git","repo":"p-wlroots"}
-{"url":"https://android.googlesource.com/kernel/mediatek","type":"git","repo":"aosp-kernel_mediatek"}
+{"url":"https://git.code.sf.net/p/linuxjm/code","type":"git","repo":"linuxjm"}
+{"url":"https://github.com/yuzu-emu-mirror/yuzu-mainline.git","type":"git","repo":"yuzu-mainline","private":true,"paused":true}
+{"url":"https://github.com/yuzu-emu-mirror/yuzu.git","type":"git","repo":"yuzu","private":true,"paused":true}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/pmbootstrap.git","type":"git","repo":"pmbootstrap"}
+{"url":"https://chromium.googlesource.com/chromiumos/third_party/kernel","type":"git","repo":"chromiumos-third_party-kernel"}
+{"url":"https://codeberg.org/silverpill/mitra-web.git","type":"git","repo":"mitra-web"}
+{"url":"https://gitlab.freedesktop.org/StaticRocket/mesa.git/","type":"git","repo":"mesa-powervr"}

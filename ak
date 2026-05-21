@@ -1,6 +1,6 @@
-{"url":"https://github.com/yuzu-emu-mirror/yuzu-emu.github.io.git","type":"git","repo":"yuzu-emu.github.io","private":true,"paused":true}
-{"url":"https://gitlab.com/exynos5-mainline/u-boot.git","type":"git","repo":"exynos5-mainline-u-boot"}
-{"url":"https://gitlab.com/mt6589-mainline/linux.git/","type":"git","repo":"mt6589-mainline-linux-tooniis"}
-{"url":"https://github.com/yuzu-emu-mirror/liftinstall.git","type":"git","repo":"yuzu-liftinstall","private":true,"paused":true}
-{"url":"https://repo.dec05eba.com/phoenix","type":"git","repo":"phoenix"}
-{"url":"https://git.launchpad.net/ubuntu/+source/linux-nvidia-6.14","type":"git","repo":"linux-nvidia-6.14"}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/pmaports.git","type":"git","repo":"pmaports"}
+{"url":"https://codeberg.org/ums9230-mainline/libcamera.git","type":"git","repo":"ums9230-mainline-libcamera"}
+{"url":"https://gitlab.freedesktop.org/xorg/xserver.git","type":"git","repo":"xorg-xserver"}
+{"url":"https://github.com/yuzu-emu-mirror/citra-qt-installer.git","type":"git","repo":"yuzu-citra-qt-installer","private":true,"paused":true}
+{"url":"https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git","type":"git","repo":"linux-next"}
+{"url":"https://git.launchpad.net/ubuntu/+source/linux-nvidia-7.0","type":"git","repo":"linux-nvidia-7.0"}

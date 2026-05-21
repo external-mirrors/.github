@@ -1,7 +1,7 @@
-{"url":"https://gitlab.com/mtk-mainline/mt6762/linux.git","type":"git","repo":"mt6762-mainline-linux"}
-{"url":"https://github.com/yuzu-emu-mirror/ext-linux-bin.git","type":"git","repo":"yuzu-ext-linux-bin","private":true,"paused":true}
-{"url":"https://gitlab.com/linux-wiiu/smp-patches.git","type":"git","repo":"linux-wiiu-smp-patches"}
-{"url":"https://gitlab.com/UniQMG/tetrio-plus.git","type":"git","repo":"tetrio-plus"}
-{"url":"https://git.eden-emu.dev/eden-emu/eden.git","type":"git","repo":"eden","private":true,"paused":true}
-{"url":"https://git.code.sf.net/p/linuxjm/code","type":"git","repo":"linuxjm"}
-{"url":"https://gitlab.com/exynos5-mainline/linux-downstream.git","type":"git","repo":"exynos5-mainline-linux-downstream"}
+{"url":"https://gitlab.freedesktop.org/wayback/wayback.git","type":"git","repo":"wayback"}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/postmarketos-mkinitfs.git","type":"git","repo":"postmarketos-mkinitfs"}
+{"url":"git://linux-libre.fsfla.org/releases.git","type":"git","repo":"linux-libre"}
+{"url":"https://github.com/yuzu-emu-mirror/yuzu-assets.git","type":"git","repo":"yuzu-yuzu-assets","private":true,"paused":true}
+{"url":"https://gitlab.com/pvrports/pvrports.git","type":"git","repo":"pvrports"}
+{"url":"https://github.com/yuzu-emu-mirror/AppImageKit-checkrt.git","type":"git","repo":"yuzu-AppImageKit-checkrt","private":true,"paused":true}
+{"url":"https://gitlab.postmarketos.org/mt6757-mainline/linux.git","type":"git","repo":"mt6757-mainline-linux"}
