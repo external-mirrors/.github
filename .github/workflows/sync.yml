@@ -209,7 +209,7 @@ jobs:
             git config set --append remote.origin.fetch '+refs/heads/*:refs/heads/*'
             git config set --append remote.origin.fetch "^refs/heads/refs/*"
             git config set --append remote.mirror.fetch '+refs/heads/*:refs/heads/*'
-            echo -n "$ignore_heads" | while IFS= read -r ignore_name; do
+            echo "$ignore_heads" | while IFS= read -r ignore_name; do
               git config set --append remote.origin.fetch "^refs/heads/$ignore_name"
               git config set --append remote.mirror.fetch "^refs/heads/$ignore_name"
             done
