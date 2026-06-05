@@ -1,3 +1,5 @@
-{"url":"https://chromium.googlesource.com/chromiumos/third_party/kernel","type":"git","repo":"chromiumos-third_party-kernel"}
-{"url":"https://github.com/yuzu-emu-mirror/ext-android-bin.git","type":"git","repo":"yuzu-ext-android-bin","private":true,"paused":true}
-{"url":"https://gitlab.com/mtk-mainline/mt6755/linux.git","type":"git","repo":"mt6755-mainline-linux"}
+{"url":"https://codeberg.org/silverpill/mitra.git","type":"git","repo":"mitra"}
+{"url":"https://git.launchpad.net/ubuntu/+source/linux-nvidia-7.0","type":"git","repo":"linux-nvidia-7.0","ignore":{"heads":["importer/ubuntu/pristine-tar"]}}
+{"url":"https://github.com/yuzu-emu-mirror/.github.git","type":"git","repo":"yuzu-emu-mirror-.github","private":true,"paused":true}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/postmarketos-mkinitfs.git","type":"git","repo":"postmarketos-mkinitfs"}
+{"url":"https://github.com/yuzu-emu-mirror/yuzu-android.git","type":"git","repo":"yuzu-android","private":true,"paused":true}
