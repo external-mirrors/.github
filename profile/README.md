@@ -15,3 +15,20 @@
 - https://github.com/mirror
 - https://github.com/GitMirroring
 - https://github.com/bminor
+
+## Public Mirror list
+
+- https://github.com/wine-mirror/wine
+- https://github.com/gcc-mirror/gcc
+- https://github.com/aosp-mirror (discontinued)
+- -> Alternative: https://github.com/aosp-mirror-neo
+
+## Other mirror list
+
+- https://github.com/aosp-mirror-neo
+- https://github.com/fairphone-mirror
+- https://github.com/CodeLinaro-mirror
+- https://github.com/kernelorg-mirror
+- https://github.com/MrBitBucket/reportlab-mirror
+- https://github.com/BelledonneCommunications/linphone-android
+- https://github.com/sourcehut-mirrors
