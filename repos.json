@@ -249,6 +249,10 @@
     "type": "git",
     "repo": "android_translation_layer"
   }, {
+    "url": "https://gitlab.com/android_translation_layer/art_standalone.git",
+    "type": "git",
+    "repo": "android_translation_layer-art_standalone"
+  }, {
     "url": "https://https.git.savannah.gnu.org/git/hurd/hurd.git",
     "type": "git",
     "repo": "hurd"
