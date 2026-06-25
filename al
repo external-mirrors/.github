@@ -1,6 +1,6 @@
-{"url":"https://gitlab.postmarketos.org/postmarketOS/postmarketos-mkinitfs.git","type":"git","repo":"postmarketos-mkinitfs"}
-{"url":"https://gitlab.postmarketos.org/mt6757-mainline/linux.git","type":"git","repo":"mt6757-mainline-linux"}
-{"url":"https://https.git.savannah.gnu.org/git/nano.git","type":"git","repo":"nano"}
-{"url":"https://chromium.googlesource.com/chromiumos/third_party/kernel","type":"git","repo":"chromiumos-third_party-kernel"}
-{"url":"https://gitlab.com/pvrports/pvrports.git","type":"git","repo":"pvrports"}
-{"url":"https://github.com/yuzu-emu-mirror/yuzu-mainline.git","type":"git","repo":"yuzu-mainline","private":true,"paused":true}
+{"url":"https://gitlab.freedesktop.org/pipewire/helvum.git","type":"git","repo":"helvum"}
+{"url":"https://gitlab.com/linux-wiiu/linux-wiiu.org.git","type":"git","repo":"linux-wiiu.org"}
+{"url":"https://github.com/yuzu-emu-mirror/ext-windows-bin.git","type":"git","repo":"yuzu-ext-windows-bin","private":true,"paused":true}
+{"url":"https://github.com/neobrain/citra.git","type":"git","repo":"citra","private":true}
+{"url":"https://gitlab.com/mt6589-mainline/linux.git/","type":"git","repo":"mt6589-mainline-linux-tooniis"}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/pmbootstrap.git","type":"git","repo":"pmbootstrap"}

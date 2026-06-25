@@ -1,6 +1,0 @@
-{"url":"https://github.com/neobrain/citra.git","type":"git","repo":"citra","private":true}
-{"url":"https://github.com/yuzu-emu-mirror/discord-open-source.git","type":"git","repo":"yuzu-discord-open-source","private":true,"paused":true}
-{"url":"https://git.savannah.gnu.org/git/gnulib.git/","type":"git","repo":"gnulib"}
-{"url":"https://gitlab.postmarketos.org/postmarketOS/boot-deploy.git","type":"git","repo":"pmos-boot-deploy"}
-{"url":"https://https.git.savannah.gnu.org/git/cpio.git","type":"git","repo":"cpio"}
-{"url":"https://github.com/yuzu-emu-mirror/citra-qt-installer.git","type":"git","repo":"yuzu-citra-qt-installer","private":true,"paused":true}

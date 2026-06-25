@@ -1,6 +1,6 @@
-{"url":"https://https.git.savannah.gnu.org/git/paxutils.git","type":"git","repo":"paxutils"}
-{"url":"https://github.com/yuzu-emu-mirror/ext-boost.git","type":"git","repo":"yuzu-ext-boost","private":true,"paused":true}
-{"url":"https://gitlab.com/ubports/development/core/lomiri.git","type":"git","repo":"lomiri"}
-{"url":"https://github.com/yuzu-emu-mirror/yuzu.git","type":"git","repo":"yuzu","private":true,"paused":true}
-{"url":"https://github.com/yuzu-emu-mirror/yuzu-assets.git","type":"git","repo":"yuzu-yuzu-assets","private":true,"paused":true}
-{"url":"https://https.git.savannah.gnu.org/git/hurd/gnumach.git","type":"git","repo":"gnumach"}
+{"url":"https://git.ti.com/git/graphics/omap5-sgx-ddk-linux.git","type":"git","repo":"omap5-sgx-ddk-linux"}
+{"url":"https://github.com/yuzu-emu-mirror/discord-rpc.git","type":"git","repo":"yuzu-discord-rpc","private":true,"paused":true}
+{"url":"https://gitlab.com/vinibali/linux.git/","type":"git","repo":"mt6589-mainline-linux-vinibali"}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/boot-deploy.git","type":"git","repo":"pmos-boot-deploy"}
+{"url":"https://github.com/yuzu-emu-mirror/yuzu-android.git","type":"git","repo":"yuzu-android","private":true,"paused":true}
+{"url":"https://android.googlesource.com/kernel/mediatek","type":"git","repo":"aosp-kernel_mediatek"}
