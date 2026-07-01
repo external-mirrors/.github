@@ -1,7 +1,6 @@
-{"url":"https://https.git.savannah.gnu.org/git/bison.git","type":"git","repo":"bison"}
-{"url":"https://git.launchpad.net/ubuntu/+source/linux-nvidia-6.17","type":"git","repo":"linux-nvidia-6.17","ignore":{"heads":["importer/ubuntu/pristine-tar"]}}
-{"url":"https://codeberg.org/forgejo/forgejo.git","type":"git","repo":"forgejo"}
-{"url":"https://codeberg.org/grunfink/snac2","type":"git","repo":"snac2"}
-{"url":"https://git.ti.com/git/graphics/omap5-sgx-ddk-um-linux.git","type":"git","repo":"omap5-sgx-ddk-um-linux","private":true}
-{"url":"https://gitlab.com/linux-wiiu/linux-loader.git","type":"git","repo":"linux-wiiu-linux-loader"}
-{"url":"https://gitlab.com/linux-wiiu/smp-patches.git","type":"git","repo":"linux-wiiu-smp-patches"}
+{"url":"https://git.sr.ht/~calebccff/pbsplash","type":"git","repo":"pbsplash"}
+{"url":"https://codeberg.org/Garnet/sgx540-reversing","type":"git","repo":"sgx540-reversing"}
+{"url":"https://github.com/yuzu-emu-mirror/.github.git","type":"git","repo":"yuzu-emu-mirror-.github","private":true,"paused":true}
+{"url":"https://gitlab.postmarketos.org/mt6785-mainline/linux.git","type":"git","repo":"mt6785-mainline-linux"}
+{"url":"https://gitlab.com/android_translation_layer/art_standalone.git","type":"git","repo":"android_translation_layer-art_standalone"}
+{"url":"https://github.com/yuzu-emu-mirror/build-environments.git","type":"git","repo":"yuzu-build-environments","private":true,"paused":true}

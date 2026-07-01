@@ -1,7 +1,6 @@
-{"url":"https://gitlab.freedesktop.org/StaticRocket/mesa.git/","type":"git","repo":"mesa-powervr"}
-{"url":"https://https.git.savannah.gnu.org/git/hurd/hurd.git","type":"git","repo":"hurd"}
-{"url":"https://gitlab.freedesktop.org/libinput/libinput.git","type":"git","repo":"libinput"}
-{"url":"https://android.googlesource.com/kernel/mediatek","type":"git","repo":"aosp-kernel_mediatek"}
-{"url":"https://codeberg.org/ums9230-mainline/u-boot.git","type":"git","repo":"ums9230-mainline-u-boot"}
-{"url":"https://git.savannah.nongnu.org/git/linux-libre-fw.git","type":"git","repo":"linux-libre-fw"}
-{"url":"https://chromium.googlesource.com/chromiumos/third_party/kernel","type":"git","repo":"chromiumos-third_party-kernel"}
+{"url":"https://gitlab.com/linux-wiiu/linux-loader.git","type":"git","repo":"linux-wiiu-linux-loader"}
+{"url":"https://github.com/yuzu-emu-mirror/yuzu-multiplayer-dedicated.git","type":"git","repo":"yuzu-multiplayer-dedicated","private":true,"paused":true}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/systemd.git","type":"git","repo":"pmos-systemd"}
+{"url":"https://github.com/yuzu-emu-mirror/yuzu-assets.git","type":"git","repo":"yuzu-yuzu-assets","private":true,"paused":true}
+{"url":"https://git.launchpad.net/ubuntu/+source/linux-nvidia-7.0","type":"git","repo":"linux-nvidia-7.0","ignore":{"heads":["importer/ubuntu/pristine-tar"]}}
+{"url":"https://git.launchpad.net/ubuntu/+source/linux-nvidia-6.14","type":"git","repo":"linux-nvidia-6.14","ignore":{"heads":["importer/ubuntu/pristine-tar"]}}
