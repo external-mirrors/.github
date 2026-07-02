@@ -1,6 +1,6 @@
-{"url":"https://gitlab.freedesktop.org/xorg/xserver.git","type":"git","repo":"xorg-xserver"}
-{"url":"https://https.git.savannah.gnu.org/git/hurd/hurd.git","type":"git","repo":"hurd"}
-{"url":"https://git.eden-emu.dev/eden-emu/eden.git","type":"git","repo":"eden","private":true,"paused":true}
-{"url":"https://gitlab.com/linux-wiiu/linux-wiiu-scripts.git","type":"git","repo":"linux-wiiu-scripts"}
-{"url":"https://github.com/yuzu-emu-mirror/ext-boost.git","type":"git","repo":"yuzu-ext-boost","private":true,"paused":true}
-{"url":"https://gitlab.freedesktop.org/wlroots/wlroots.git","type":"git","repo":"wlroots"}
+{"url":"https://github.com/yuzu-emu-mirror/mbedtls.git","type":"git","repo":"yuzu-mbedtls","private":true,"paused":true}
+{"url":"https://github.com/yuzu-emu-mirror/FasTC.git","type":"git","repo":"yuzu-FasTC","private":true,"paused":true}
+{"url":"https://github.com/yuzu-emu-mirror/yuzu-assets.git","type":"git","repo":"yuzu-yuzu-assets","private":true,"paused":true}
+{"url":"https://android.googlesource.com/kernel/mediatek","type":"git","repo":"aosp-kernel_mediatek"}
+{"url":"https://gitlab.com/exynos5-mainline/linux.git","type":"git","repo":"exynos5-mainline-linux"}
+{"url":"https://github.com/yuzu-emu-mirror/liftinstall.git","type":"git","repo":"yuzu-liftinstall","private":true,"paused":true}
