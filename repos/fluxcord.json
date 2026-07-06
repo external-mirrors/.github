@@ -1,0 +1,21 @@
+[{
+  "url": "https://git.gay/Fluxcord/core.git",
+  "type": "git",
+  "repo": "Fluxcord-core"
+}, {
+  "url": "https://git.gay/Fluxcord/voice.git",
+  "type": "git",
+  "repo": "Fluxcord-voice"
+}, {
+  "url": "https://git.gay/Fluxcord/ibiscore.git",
+  "type": "git",
+  "repo": "Fluxcord-ibiscore"
+}, {
+  "url": "https://git.gay/Fluxcord/dev.git",
+  "type": "git",
+  "repo": "Fluxcord-dev"
+}, {
+  "url": "https://git.gay/Fluxcord/site.git",
+  "type": "git",
+  "repo": "Fluxcord-site"
+}]
