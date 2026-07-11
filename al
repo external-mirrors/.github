@@ -1,8 +1,7 @@
-{"url":"https://gitlab.com/linux-wiiu/linux-wiiu-scripts.git","type":"git","repo":"linux-wiiu-scripts"}
-{"url":"https://git.code.sf.net/p/linuxjm/code","type":"git","repo":"linuxjm"}
-{"url":"https://akkoma.dev/AkkomaGang/akkoma.git","type":"git","repo":"akkoma"}
-{"url":"https://git.savannah.nongnu.org/git/linux-libre-fw.git","type":"git","repo":"linux-libre-fw"}
-{"url":"https://codeberg.org/silverpill/mitra.git","type":"git","repo":"mitra"}
-{"url":"https://gitlab.com/android_translation_layer/android_translation_layer.git","type":"git","repo":"android_translation_layer"}
-{"url":"https://git.wut.ee/mikroskeem/aur-buildbot.git","type":"git","repo":"aur-buildbot"}
-{"url":"https://github.com/yuzu-emu-mirror/FasTC.git","type":"git","repo":"yuzu-FasTC","private":true,"paused":true}
+{"url":"https://github.com/yuzu-emu-mirror/.archive.git","type":"git","repo":"yuzu-archives","private":true,"paused":true}
+{"url":"https://git.gay/Fluxcord/voice.git","type":"git","repo":"Fluxcord-voice"}
+{"url":"https://gitlab.com/mt6589-mainline/linux.git/","type":"git","repo":"mt6589-mainline-linux-tooniis"}
+{"url":"https://gitlab.freedesktop.org/imagination/linux-firmware.git","type":"git","repo":"linux-firmware-imagination"}
+{"url":"https://gitlab.metager.de/open-source/MetaGer.git","type":"git","repo":"MetaGer"}
+{"url":"https://https.git.savannah.gnu.org/git/hurd/gnumach.git","type":"git","repo":"gnumach"}
+{"url":"https://codeberg.org/Garnet/sgx540-reversing","type":"git","repo":"sgx540-reversing"}

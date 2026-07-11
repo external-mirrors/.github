@@ -1,7 +1,6 @@
-{"url":"https://gitlab.postmarketos.org/postmarketOS/systemd.git","type":"git","repo":"pmos-systemd"}
-{"url":"https://gitlab.com/sm6225-mainline/linux.git","type":"git","repo":"sm6225-mainline-linux"}
-{"url":"https://codeberg.org/Garnet/sgx540-reversing","type":"git","repo":"sgx540-reversing"}
-{"url":"https://git.sr.ht/~leon_plickat/wayneko","type":"git","repo":"wayneko"}
-{"url":"https://github.com/yuzu-emu-mirror/breakpad.git","type":"git","repo":"yuzu-breakpad","private":true,"paused":true}
-{"url":"https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git","type":"git","repo":"linux-next"}
-{"url":"https://gitlab.com/linux-wiiu/smp-patches.git","type":"git","repo":"linux-wiiu-smp-patches"}
+{"url":"https://git.gay/Fluxcord/site.git","type":"git","repo":"Fluxcord-site"}
+{"url":"https://github.com/yuzu-emu-mirror/yuzu-emu.github.io.git","type":"git","repo":"yuzu-emu.github.io","private":true,"paused":true}
+{"url":"https://git.launchpad.net/ubuntu/+source/linux-nvidia-6.17","type":"git","repo":"linux-nvidia-6.17","ignore":{"heads":["importer/ubuntu/pristine-tar"]}}
+{"url":"https://github.com/yuzu-emu-mirror/liftinstall.git","type":"git","repo":"yuzu-liftinstall","private":true,"paused":true}
+{"url":"https://git.gay/Fluxcord/core.git","type":"git","repo":"Fluxcord-core"}
+{"url":"https://github.com/yuzu-emu-mirror/FasTC.git","type":"git","repo":"yuzu-FasTC","private":true,"paused":true}
