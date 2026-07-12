@@ -272,5 +272,13 @@
     "url": "https://gitlab.com/adomerle/edk2-mt6765.git",
     "type": "git",
     "repo": "edk2-mt6765"
+  }, {
+    "url": "https://gitlab.com/sleirsgoevy/zimage64.git",
+    "type": "git",
+    "repo": "zimage64"
+  }, {
+    "url": "https://gitlab.com/sleirsgoevy/udt.git",
+    "type": "git",
+    "repo": "udt"
   }
 ]
