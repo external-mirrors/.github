@@ -1,0 +1,25 @@
+[{
+  "url": "https://gitlab.com/echo-pmos/amazon-checkers-kernel.git",
+  "type": "git",
+  "repo": "echo-pmos-amazon-checkers-kernel"
+}, {
+  "url": "https://gitlab.com/echo-pmos/amazon-baklava-kernel.git",
+  "type": "git",
+  "repo": "echo-pmos-amazon-baklava-kernel"
+}, {
+  "url": "https://gitlab.com/echo-pmos/amazon-biscuit-kernel.git",
+  "type": "git",
+  "repo": "echo-pmos-amazon-biscuit-kernel"
+}, {
+  "url": "https://gitlab.com/echo-pmos/pmaports.git",
+  "type": "git",
+  "repo": "echo-pmos-pmaports"
+}, {
+  "url": "https://gitlab.com/echo-pmos/amazon-checkers-vendor.git",
+  "type": "git",
+  "repo": "echo-pmos-amazon-checkers-vendor"
+}, {
+  "url": "https://gitlab.com/echo-pmos/amazon-biscuit-vendor.git",
+  "type": "git",
+  "repo": "echo-pmos-amazon-biscuit-vendor"
+}]
