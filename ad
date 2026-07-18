@@ -1,7 +1,7 @@
-{"url":"https://gitlab.com/UniQMG/tpsecore.git","type":"git","repo":"tpsecore"}
-{"url":"https://github.com/yuzu-emu-mirror/discord-rpc.git","type":"git","repo":"yuzu-discord-rpc","private":true,"paused":true}
-{"url":"https://git.gay/Fluxcord/dev.git","type":"git","repo":"Fluxcord-dev"}
-{"url":"https://github.com/yuzu-emu-mirror/mbedtls.git","type":"git","repo":"yuzu-mbedtls","private":true,"paused":true}
-{"url":"https://gitlab.com/echo-pmos/amazon-checkers-vendor.git","type":"git","repo":"echo-pmos-amazon-checkers-vendor"}
-{"url":"https://gitlab.com/exynos5-mainline/u-boot.git","type":"git","repo":"exynos5-mainline-u-boot"}
-{"url":"https://git.pleroma.social/pleroma/pleroma.git","type":"git","repo":"pleroma"}
+{"url":"https://gitlab.com/exynos5-mainline/linux-downstream.git","type":"git","repo":"exynos5-mainline-linux-downstream"}
+{"url":"https://gitlab.com/echo-pmos/pmaports.git","type":"git","repo":"echo-pmos-pmaports"}
+{"url":"https://git.gay/Fluxcord/voice.git","type":"git","repo":"Fluxcord-voice"}
+{"url":"https://chromium.googlesource.com/chromiumos/third_party/kernel","type":"git","repo":"chromiumos-third_party-kernel"}
+{"url":"https://gitlab.freedesktop.org/wayland/weston.git","type":"git","repo":"weston"}
+{"url":"https://git.eden-emu.dev/eden-emu/eden.git","type":"git","repo":"eden","private":true,"paused":true}
+{"url":"https://github.com/yuzu-emu-mirror/Command-fix.git","type":"git","repo":"yuzu-Command-fix","private":true,"paused":true}

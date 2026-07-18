@@ -1,6 +1,7 @@
-{"url":"https://gitlab.postmarketos.org/postmarketOS/postmarketos-mkinitfs.git","type":"git","repo":"postmarketos-mkinitfs"}
-{"url":"https://gitlab.com/exynos5-mainline/pmaports.git","type":"git","repo":"exynos5-mainline-pmaports"}
-{"url":"https://gitlab.com/sm6225-mainline/linux.git","type":"git","repo":"sm6225-mainline-linux"}
-{"url":"https://github.com/yuzu-emu-mirror/shared-bulma-theme.git","type":"git","repo":"yuzu-shared-bulma-theme","private":true,"paused":true}
-{"url":"https://gitlab.postmarketos.org/postmarketOS/systemd.git","type":"git","repo":"pmos-systemd"}
-{"url":"https://github.com/yuzu-emu-mirror/yuzu-mainline.git","type":"git","repo":"yuzu-mainline","private":true,"paused":true}
+{"url":"https://git.code.sf.net/p/linuxjm/code","type":"git","repo":"linuxjm"}
+{"url":"https://git.launchpad.net/ubuntu/+source/linux-nvidia-6.14","type":"git","repo":"linux-nvidia-6.14","ignore":{"heads":["importer/ubuntu/pristine-tar"]}}
+{"url":"https://codeberg.org/grunfink/snac2","type":"git","repo":"snac2"}
+{"url":"https://codeberg.org/ums9230-mainline/libcamera.git","type":"git","repo":"ums9230-mainline-libcamera"}
+{"url":"https://gitlab.com/echo-pmos/amazon-biscuit-kernel.git","type":"git","repo":"echo-pmos-amazon-biscuit-kernel"}
+{"url":"https://github.com/yuzu-emu-mirror/breakpad.git","type":"git","repo":"yuzu-breakpad","private":true,"paused":true}
+{"url":"https://https.git.savannah.gnu.org/git/hurd/hurd.git","type":"git","repo":"hurd"}

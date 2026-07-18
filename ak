@@ -1,8 +1,8 @@
-{"url":"https://gitlab.com/mtk-mainline/mt6763/linux.git","type":"git","repo":"mt6763-mainline-linux"}
-{"url":"https://github.com/citra-mirror/citra.git","type":"git","repo":"citra-mirror","private":true}
-{"url":"https://gitlab.com/UniQMG/tetrio-plus.git","type":"git","repo":"tetrio-plus"}
-{"url":"https://akkoma.dev/AkkomaGang/akkoma.git","type":"git","repo":"akkoma"}
-{"url":"https://gitlab.com/linux-wiiu/linux-wiiu-scripts.git","type":"git","repo":"linux-wiiu-scripts"}
-{"url":"https://git.sr.ht/~cloutier/bird.makeup","type":"git","repo":"bird.makeup","paused":true}
-{"url":"https://gitlab.com/kernel-firmware/linux-firmware.git","type":"git","repo":"linux-firmware"}
-{"url":"https://https.git.savannah.gnu.org/git/hurd/gnumach.git","type":"git","repo":"gnumach"}
+{"url":"https://gitlab.com/mt6735-mainline/linux.git","type":"git","repo":"mt6735-mainline-linux"}
+{"url":"https://gitlab.freedesktop.org/pipewire/helvum.git","type":"git","repo":"helvum"}
+{"url":"https://github.com/yuzu-emu-mirror/shared-hugo-scripts.git","type":"git","repo":"yuzu-shared-hugo-scripts","private":true,"paused":true}
+{"url":"https://gitlab.com/nigelcunningham/tuxonice-kernel.git","type":"git","repo":"tuxonice-kernel"}
+{"url":"https://gitlab.freedesktop.org/wayback/wayback.git","type":"git","repo":"wayback"}
+{"url":"https://gitlab.com/sm6225-mainline/linux.git","type":"git","repo":"sm6225-mainline-linux"}
+{"url":"https://gitlab.com/pvrports/p-wlroots.git","type":"git","repo":"p-wlroots"}
+{"url":"https://codeberg.org/Garnet/sgx540-reversing","type":"git","repo":"sgx540-reversing"}

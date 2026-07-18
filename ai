@@ -1,7 +1,7 @@
-{"url":"https://gitlab.com/mtk-mainline/mt6768/linux.git","type":"git","repo":"mt6768-mainline-linux"}
-{"url":"https://github.com/yuzu-emu-mirror/ext-windows-bin.git","type":"git","repo":"yuzu-ext-windows-bin","private":true,"paused":true}
-{"url":"https://gitlab.com/pvrports/pvrports.git","type":"git","repo":"pvrports"}
-{"url":"https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git","type":"git","repo":"linux-next"}
-{"url":"https://gitlab.com/linux-wiiu/linux-wiiu.git","type":"git","repo":"linux-wiiu"}
-{"url":"https://gerrit-public.fairphone.software/manifest","type":"git","repo":"fairphone-manifest"}
-{"url":"https://git.ti.com/git/graphics/omap5-sgx-ddk-linux.git","type":"git","repo":"omap5-sgx-ddk-linux"}
+{"url":"https://github.com/yuzu-emu-mirror/yuzu-multiplayer-dedicated.git","type":"git","repo":"yuzu-multiplayer-dedicated","private":true,"paused":true}
+{"url":"https://gitlab.com/echo-pmos/amazon-checkers-vendor.git","type":"git","repo":"echo-pmos-amazon-checkers-vendor"}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/pmbootstrap.git","type":"git","repo":"pmbootstrap"}
+{"url":"https://gitlab.freedesktop.org/StaticRocket/mesa.git/","type":"git","repo":"mesa-powervr"}
+{"url":"https://gitlab.postmarketos.org/mt6757-mainline/linux.git","type":"git","repo":"mt6757-mainline-linux"}
+{"url":"https://gitlab.freedesktop.org/xorg/xserver.git","type":"git","repo":"xorg-xserver"}
+{"url":"https://gitlab.postmarketos.org/mt6785-mainline/linux.git","type":"git","repo":"mt6785-mainline-linux"}
