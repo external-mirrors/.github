@@ -1,8 +1,7 @@
-{"url":"https://github.com/citra-mirror/citra.git","type":"git","repo":"citra-mirror","private":true}
-{"url":"https://git.gay/Fluxcord/core.git","type":"git","repo":"Fluxcord-core"}
-{"url":"https://gitlab.com/pvrports/p-wlroots.git","type":"git","repo":"p-wlroots"}
-{"url":"https://github.com/yuzu-emu-mirror/shared-hugo-scripts.git","type":"git","repo":"yuzu-shared-hugo-scripts","private":true,"paused":true}
-{"url":"https://git.savannah.gnu.org/git/gnulib.git/","type":"git","repo":"gnulib"}
-{"url":"https://gitlab.com/kernel-firmware/linux-firmware.git","type":"git","repo":"linux-firmware"}
-{"url":"https://https.git.savannah.gnu.org/git/bison.git","type":"git","repo":"bison"}
-{"url":"https://codeberg.org/grunfink/snac2","type":"git","repo":"snac2"}
+{"url":"https://git.pleroma.social/pleroma/pleroma.git","type":"git","repo":"pleroma"}
+{"url":"https://github.com/yuzu-emu-mirror/liftinstall.git","type":"git","repo":"yuzu-liftinstall","private":true,"paused":true}
+{"url":"https://gitlab.com/mt6735-mainline/u-boot.git","type":"git","repo":"mt6735-mainline-u-boot"}
+{"url":"https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git","type":"git","repo":"linux-next"}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/postmarketos-mkinitfs.git","type":"git","repo":"postmarketos-mkinitfs"}
+{"url":"https://codeberg.org/ums9230-mainline/libcamera.git","type":"git","repo":"ums9230-mainline-libcamera"}
+{"url":"https://gitlab.com/linux-wiiu/linux-wiiu.git","type":"git","repo":"linux-wiiu"}

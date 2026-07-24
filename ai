@@ -1,7 +1,8 @@
-{"url":"https://git.gay/Fluxcord/ibiscore.git","type":"git","repo":"Fluxcord-ibiscore"}
-{"url":"https://github.com/yuzu-emu-mirror/yuzu-multiplayer-dedicated.git","type":"git","repo":"yuzu-multiplayer-dedicated","private":true,"paused":true}
-{"url":"https://gitlab.com/android_translation_layer/android_translation_layer.git","type":"git","repo":"android_translation_layer"}
-{"url":"https://gitlab.com/linux-wiiu/linux-wiiu-archive.git","type":"git","repo":"linux-wiiu-archive"}
-{"url":"https://gitlab.com/mt6589-mainline/linux.git/","type":"git","repo":"mt6589-mainline-linux-tooniis"}
-{"url":"https://android.googlesource.com/kernel/mediatek","type":"git","repo":"aosp-kernel_mediatek"}
-{"url":"https://gitlab.postmarketos.org/postmarketOS/pmbootstrap.git","type":"git","repo":"pmbootstrap"}
+{"url":"https://gitlab.com/linux-wiiu/petitboot-build.git","type":"git","repo":"linux-wiiu-petitboot-build"}
+{"url":"https://git.gay/Fluxcord/core.git","type":"git","repo":"Fluxcord-core"}
+{"url":"https://https.git.savannah.gnu.org/git/bison.git","type":"git","repo":"bison"}
+{"url":"https://gitlab.com/vinibali/linux.git/","type":"git","repo":"mt6589-mainline-linux-vinibali"}
+{"url":"https://gitlab.com/UniQMG/tetrio-plus.git","type":"git","repo":"tetrio-plus"}
+{"url":"https://gitlab.com/mtk-mainline/mt6768/linux.git","type":"git","repo":"mt6768-mainline-linux"}
+{"url":"https://github.com/yuzu-emu-mirror/unicorn.git","type":"git","repo":"yuzu-unicorn","private":true,"paused":true}
+{"url":"https://codeberg.org/ums9230-mainline/linux.git","type":"git","repo":"ums9230-mainline-linux"}
