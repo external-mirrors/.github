@@ -1,7 +1,7 @@
-{"url":"https://https.git.savannah.gnu.org/git/hurd/hurd.git","type":"git","repo":"hurd"}
-{"url":"https://https.git.savannah.gnu.org/git/paxutils.git","type":"git","repo":"paxutils"}
-{"url":"https://github.com/yuzu-emu-mirror/shared-hugo-scripts.git","type":"git","repo":"yuzu-shared-hugo-scripts","private":true,"paused":true}
-{"url":"https://github.com/citra-mirror/citra.git","type":"git","repo":"citra-mirror","private":true}
+{"url":"https://github.com/yuzu-emu-mirror/yuzu.git","type":"git","repo":"yuzu","private":true,"paused":true}
+{"url":"https://github.com/yuzu-emu-mirror/ext-linux-bin.git","type":"git","repo":"yuzu-ext-linux-bin","private":true,"paused":true}
+{"url":"https://gitlab.com/ubports/development/core/lomiri.git","type":"git","repo":"lomiri"}
+{"url":"https://github.com/yuzu-emu-mirror/build-environments.git","type":"git","repo":"yuzu-build-environments","private":true,"paused":true}
+{"url":"https://git.sr.ht/~cloutier/bird.makeup","type":"git","repo":"bird.makeup","paused":true}
 {"url":"https://gitlab.freedesktop.org/wlroots/wlroots.git","type":"git","repo":"wlroots"}
-{"url":"https://github.com/yuzu-emu-mirror/yuzu-assets.git","type":"git","repo":"yuzu-yuzu-assets","private":true,"paused":true}
-{"url":"https://gitlab.metager.de/open-source/MetaGer.git","type":"git","repo":"MetaGer"}
+{"url":"https://git.eden-emu.dev/eden-emu/eden.git","type":"git","repo":"eden","private":true,"paused":true}

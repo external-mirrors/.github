@@ -1,8 +1,8 @@
-{"url":"https://gitlab.freedesktop.org/beignet/beignet.git","type":"git","repo":"beignet"}
-{"url":"https://git.pleroma.social/pleroma/pleroma.git","type":"git","repo":"pleroma"}
-{"url":"https://github.com/yuzu-emu-mirror/yuzu-mainline.git","type":"git","repo":"yuzu-mainline","private":true,"paused":true}
-{"url":"https://chromium.googlesource.com/chromiumos/third_party/kernel","type":"git","repo":"chromiumos-third_party-kernel"}
-{"url":"https://gitlab.com/pvrports/pvrports.git","type":"git","repo":"pvrports"}
-{"url":"https://git.citron-emu.org/citron/emulator.git","type":"git","repo":"citron","private":true,"paused":true}
 {"url":"https://https.git.savannah.gnu.org/git/bison.git","type":"git","repo":"bison"}
-{"url":"https://github.com/yuzu-emu-mirror/Command-fix.git","type":"git","repo":"yuzu-Command-fix","private":true,"paused":true}
+{"url":"https://gitlab.com/android_translation_layer/android_translation_layer.git","type":"git","repo":"android_translation_layer"}
+{"url":"https://github.com/yuzu-emu-mirror/breakpad.git","type":"git","repo":"yuzu-breakpad","private":true,"paused":true}
+{"url":"https://git.gay/Fluxcord/core.git","type":"git","repo":"Fluxcord-core"}
+{"url":"https://git.savannah.nongnu.org/git/linux-libre-fw.git","type":"git","repo":"linux-libre-fw"}
+{"url":"https://gitlab.freedesktop.org/mstoeckl/waypipe.git","type":"git","repo":"waypipe"}
+{"url":"https://gitlab.com/adomerle/edk2-mt6765.git","type":"git","repo":"edk2-mt6765"}
+{"url":"https://github.com/yuzu-emu-mirror/yuzu-android.git","type":"git","repo":"yuzu-android","private":true,"paused":true}

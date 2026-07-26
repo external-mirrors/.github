@@ -1,7 +1,6 @@
-{"url":"https://github.com/yuzu-emu-mirror/ext-boost.git","type":"git","repo":"yuzu-ext-boost","private":true,"paused":true}
-{"url":"https://gitlab.com/sleirsgoevy/udt.git","type":"git","repo":"udt"}
+{"url":"https://codeberg.org/Garnet/sgx540-reversing","type":"git","repo":"sgx540-reversing"}
+{"url":"https://codeberg.org/ums9230-mainline/alsa-ucm-conf.git","type":"git","repo":"ums9230-mainline-alsa-ucm-conf"}
+{"url":"https://gitlab.freedesktop.org/imagination/linux-firmware.git","type":"git","repo":"linux-firmware-imagination"}
 {"url":"https://github.com/yuzu-emu-mirror/.github.git","type":"git","repo":"yuzu-emu-mirror-.github","private":true,"paused":true}
-{"url":"https://gitlab.com/mt6735-mainline/bootshim.git","type":"git","repo":"mt6735-mainline-bootshim"}
-{"url":"https://gitlab.com/exynos5-mainline/pmaports.git","type":"git","repo":"exynos5-mainline-pmaports"}
-{"url":"https://gitlab.com/adomerle/edk2-mt6765.git","type":"git","repo":"edk2-mt6765"}
-{"url":"https://gitlab.freedesktop.org/wayland/weston.git","type":"git","repo":"weston"}
+{"url":"https://gitlab.com/linux-wiiu/smp-patches.git","type":"git","repo":"linux-wiiu-smp-patches"}
+{"url":"https://github.com/yuzu-emu-mirror/.archive.git","type":"git","repo":"yuzu-archives","private":true,"paused":true}
