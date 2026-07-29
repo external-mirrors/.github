@@ -1,7 +1,7 @@
-{"url":"https://gitlab.com/ubports/development/core/lomiri.git","type":"git","repo":"lomiri"}
-{"url":"https://gitlab.freedesktop.org/pipewire/helvum.git","type":"git","repo":"helvum"}
-{"url":"https://git.gay/Fluxcord/voice.git","type":"git","repo":"Fluxcord-voice"}
-{"url":"https://gitlab.freedesktop.org/StaticRocket/mesa.git/","type":"git","repo":"mesa-powervr"}
-{"url":"https://github.com/yuzu-emu-mirror/breakpad.git","type":"git","repo":"yuzu-breakpad","private":true,"paused":true}
-{"url":"https://github.com/yuzu-emu-mirror/yuzu-mainline.git","type":"git","repo":"yuzu-mainline","private":true,"paused":true}
-{"url":"https://android.googlesource.com/kernel/mediatek","type":"git","repo":"aosp-kernel_mediatek"}
+{"url":"https://codeberg.org/ums9230-mainline/libcamera.git","type":"git","repo":"ums9230-mainline-libcamera"}
+{"url":"https://gitlab.com/kernel-firmware/linux-firmware.git","type":"git","repo":"linux-firmware"}
+{"url":"https://git.launchpad.net/ubuntu/+source/linux-nvidia-7.0","type":"git","repo":"linux-nvidia-7.0","ignore":{"heads":["importer/ubuntu/pristine-tar"]}}
+{"url":"https://github.com/yuzu-emu-mirror/discord-rpc.git","type":"git","repo":"yuzu-discord-rpc","private":true,"paused":true}
+{"url":"https://https.git.savannah.gnu.org/git/nano.git","type":"git","repo":"nano"}
+{"url":"https://gitlab.com/echo-pmos/amazon-biscuit-vendor.git","type":"git","repo":"echo-pmos-amazon-biscuit-vendor"}
+{"url":"https://gitlab.com/echo-pmos/amazon-baklava-kernel.git","type":"git","repo":"echo-pmos-amazon-baklava-kernel"}

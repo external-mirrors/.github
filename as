@@ -1,6 +1,7 @@
-{"url":"https://gitlab.postmarketos.org/postmarketOS/systemd.git","type":"git","repo":"pmos-systemd"}
-{"url":"https://git.gay/Fluxcord/dev.git","type":"git","repo":"Fluxcord-dev"}
-{"url":"https://codeberg.org/ums9230-mainline/linux.git","type":"git","repo":"ums9230-mainline-linux"}
-{"url":"https://codeberg.org/valpackett/linux-chatarra","type":"git","repo":"linux-chatarra"}
-{"url":"https://gitlab.freedesktop.org/mstoeckl/waypipe.git","type":"git","repo":"waypipe"}
-{"url":"https://gerrit-public.fairphone.software/manifest","type":"git","repo":"fairphone-manifest"}
+{"url":"https://gitlab.com/sm6225-mainline/linux.git","type":"git","repo":"sm6225-mainline-linux"}
+{"url":"https://gitlab.freedesktop.org/imagination/linux-firmware.git","type":"git","repo":"linux-firmware-imagination"}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/boot-deploy.git","type":"git","repo":"pmos-boot-deploy"}
+{"url":"https://gitlab.com/linux-wiiu/smp-patches.git","type":"git","repo":"linux-wiiu-smp-patches"}
+{"url":"https://git.launchpad.net/ubuntu/+source/linux-nvidia-6.14","type":"git","repo":"linux-nvidia-6.14","ignore":{"heads":["importer/ubuntu/pristine-tar"]}}
+{"url":"https://codeberg.org/grunfink/snac2","type":"git","repo":"snac2"}
+{"url":"https://android.googlesource.com/kernel/mediatek","type":"git","repo":"aosp-kernel_mediatek"}

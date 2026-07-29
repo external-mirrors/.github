@@ -1,7 +1,7 @@
-{"url":"https://git.gay/Fluxcord/site.git","type":"git","repo":"Fluxcord-site"}
-{"url":"https://github.com/yuzu-emu-mirror/citra-qt-installer.git","type":"git","repo":"yuzu-citra-qt-installer","private":true,"paused":true}
-{"url":"https://gitlab.metager.de/open-source/MetaGer.git","type":"git","repo":"MetaGer"}
-{"url":"https://https.git.savannah.gnu.org/git/hurd/hurd.git","type":"git","repo":"hurd"}
-{"url":"https://gitlab.com/sleirsgoevy/zimage64.git","type":"git","repo":"zimage64"}
-{"url":"https://gitlab.freedesktop.org/wayland/weston.git","type":"git","repo":"weston"}
-{"url":"https://gitlab.com/sm6225-mainline/linux.git","type":"git","repo":"sm6225-mainline-linux"}
+{"url":"https://codeberg.org/ums9230-mainline/alsa-ucm-conf.git","type":"git","repo":"ums9230-mainline-alsa-ucm-conf"}
+{"url":"https://gitlab.com/echo-pmos/amazon-checkers-vendor.git","type":"git","repo":"echo-pmos-amazon-checkers-vendor"}
+{"url":"https://gitlab.postmarketos.org/mt6757-mainline/linux.git","type":"git","repo":"mt6757-mainline-linux"}
+{"url":"https://github.com/yuzu-emu-mirror/yuzu-mainline.git","type":"git","repo":"yuzu-mainline","private":true,"paused":true}
+{"url":"https://gitlab.com/android_translation_layer/android_translation_layer.git","type":"git","repo":"android_translation_layer"}
+{"url":"https://gitlab.com/pvrports/p-wlroots.git","type":"git","repo":"p-wlroots"}
+{"url":"https://github.com/yuzu-emu-mirror/ext-android-bin.git","type":"git","repo":"yuzu-ext-android-bin","private":true,"paused":true}
