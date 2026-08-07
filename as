@@ -1,7 +1,7 @@
-{"url":"https://github.com/yuzu-emu-mirror/Command-fix.git","type":"git","repo":"yuzu-Command-fix","private":true,"paused":true}
-{"url":"https://gitlab.com/exynos5-mainline/linux-downstream.git","type":"git","repo":"exynos5-mainline-linux-downstream"}
-{"url":"git://linux-libre.fsfla.org/releases.git","type":"git","repo":"linux-libre"}
-{"url":"https://github.com/yuzu-emu-mirror/mbedtls.git","type":"git","repo":"yuzu-mbedtls","private":true,"paused":true}
-{"url":"https://gitlab.postmarketos.org/postmarketOS/pmaports.git","type":"git","repo":"pmaports"}
+{"url":"https://codeberg.org/ums9230-mainline/u-boot.git","type":"git","repo":"ums9230-mainline-u-boot"}
+{"url":"https://github.com/yuzu-emu-mirror/breakpad.git","type":"git","repo":"yuzu-breakpad","private":true,"paused":true}
 {"url":"https://github.com/yuzu-emu-mirror/build-environments.git","type":"git","repo":"yuzu-build-environments","private":true,"paused":true}
-{"url":"https://github.com/yuzu-emu-mirror/.github.git","type":"git","repo":"yuzu-emu-mirror-.github","private":true,"paused":true}
+{"url":"https://gitlab.com/vinibali/linux.git/","type":"git","repo":"mt6589-mainline-linux-vinibali"}
+{"url":"https://codeberg.org/valpackett/linux-chatarra","type":"git","repo":"linux-chatarra"}
+{"url":"https://git.gay/Fluxcord/core.git","type":"git","repo":"Fluxcord-core"}
+{"url":"https://gitlab.freedesktop.org/mstoeckl/waypipe.git","type":"git","repo":"waypipe"}
