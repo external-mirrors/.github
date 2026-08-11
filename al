@@ -1,6 +1,8 @@
-{"url":"https://github.com/yuzu-emu-mirror/unicorn.git","type":"git","repo":"yuzu-unicorn","private":true,"paused":true}
-{"url":"https://github.com/yuzu-emu-mirror/ext-windows-bin.git","type":"git","repo":"yuzu-ext-windows-bin","private":true,"paused":true}
-{"url":"https://gitlab.postmarketos.org/postmarketOS/postmarketos-mkinitfs.git","type":"git","repo":"postmarketos-mkinitfs"}
-{"url":"https://github.com/yuzu-emu-mirror/mbedtls.git","type":"git","repo":"yuzu-mbedtls","private":true,"paused":true}
-{"url":"https://gitlab.freedesktop.org/StaticRocket/mesa.git/","type":"git","repo":"mesa-powervr"}
-{"url":"https://gitlab.postmarketos.org/mt6785-mainline/linux.git","type":"git","repo":"mt6785-mainline-linux"}
+{"url":"https://github.com/citra-mirror/citra.git","type":"git","repo":"citra-mirror","private":true}
+{"url":"https://gitlab.com/linux-wiiu/petitboot-build.git","type":"git","repo":"linux-wiiu-petitboot-build"}
+{"url":"https://gitlab.com/mt6735-mainline/u-boot.git","type":"git","repo":"mt6735-mainline-u-boot"}
+{"url":"https://git.citron-emu.org/citron/emulator.git","type":"git","repo":"citron","private":true,"paused":true}
+{"url":"https://gitlab.com/exynos5-mainline/linux.git","type":"git","repo":"exynos5-mainline-linux"}
+{"url":"https://gitlab.com/exynos5-mainline/u-boot.git","type":"git","repo":"exynos5-mainline-u-boot"}
+{"url":"https://codeberg.org/grunfink/snac2","type":"git","repo":"snac2"}
+{"url":"https://gitlab.com/linux-wiiu/smp-patches.git","type":"git","repo":"linux-wiiu-smp-patches"}

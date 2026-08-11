@@ -1,7 +1,4 @@
-{"url":"https://gitlab.com/echo-pmos/pmaports.git","type":"git","repo":"echo-pmos-pmaports"}
-{"url":"https://gitlab.freedesktop.org/beignet/beignet.git","type":"git","repo":"beignet"}
-{"url":"https://github.com/citra-mirror/citra.git","type":"git","repo":"citra-mirror","private":true}
-{"url":"https://git.launchpad.net/ubuntu/+source/linux-nvidia-7.0","type":"git","repo":"linux-nvidia-7.0","ignore":{"heads":["importer/ubuntu/pristine-tar"]}}
-{"url":"https://codeberg.org/ums9230-mainline/libcamera.git","type":"git","repo":"ums9230-mainline-libcamera"}
-{"url":"https://github.com/yuzu-emu-mirror/shared-bulma-theme.git","type":"git","repo":"yuzu-shared-bulma-theme","private":true,"paused":true}
-{"url":"https://gitlab.com/pvrports/p-wlroots.git","type":"git","repo":"p-wlroots"}
+{"url":"https://codeberg.org/Garnet/sgx540-reversing","type":"git","repo":"sgx540-reversing"}
+{"url":"https://github.com/yuzu-emu-mirror/yuzu-emu.github.io.git","type":"git","repo":"yuzu-emu.github.io","private":true,"paused":true}
+{"url":"https://github.com/yuzu-emu-mirror/discord-open-source.git","type":"git","repo":"yuzu-discord-open-source","private":true,"paused":true}
+{"url":"https://git.sr.ht/~cloutier/bird.makeup","type":"git","repo":"bird.makeup","paused":true}
