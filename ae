@@ -1,6 +1,0 @@
-{"url":"https://git.savannah.gnu.org/git/gnulib.git/","type":"git","repo":"gnulib"}
-{"url":"https://github.com/yuzu-emu-mirror/mbedtls.git","type":"git","repo":"yuzu-mbedtls","private":true,"paused":true}
-{"url":"https://github.com/yuzu-emu-mirror/shared-bulma-theme.git","type":"git","repo":"yuzu-shared-bulma-theme","private":true,"paused":true}
-{"url":"https://github.com/yuzu-emu-mirror/citra-qt-installer.git","type":"git","repo":"yuzu-citra-qt-installer","private":true,"paused":true}
-{"url":"https://gitlab.com/echo-pmos/amazon-checkers-vendor.git","type":"git","repo":"echo-pmos-amazon-checkers-vendor"}
-{"url":"https://android.googlesource.com/kernel/mediatek","type":"git","repo":"aosp-kernel_mediatek"}
