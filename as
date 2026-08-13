@@ -1,7 +1,7 @@
-{"url":"https://gitlab.freedesktop.org/wayland/weston.git","type":"git","repo":"weston"}
-{"url":"https://gitlab.com/linux-wiiu/linux-wiiu-archive.git","type":"git","repo":"linux-wiiu-archive"}
-{"url":"https://github.com/yuzu-emu-mirror/Command-fix.git","type":"git","repo":"yuzu-Command-fix","private":true,"paused":true}
-{"url":"https://git.eden-emu.dev/eden-emu/eden.git","type":"git","repo":"eden","private":true,"paused":true}
-{"url":"https://codeberg.org/ums9230-mainline/libcamera.git","type":"git","repo":"ums9230-mainline-libcamera"}
-{"url":"https://codeberg.org/ums9230-mainline/alsa-ucm-conf.git","type":"git","repo":"ums9230-mainline-alsa-ucm-conf"}
-{"url":"https://codeberg.org/Garnet/sgx540-reversing","type":"git","repo":"sgx540-reversing"}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/postmarketos-mkinitfs.git","type":"git","repo":"postmarketos-mkinitfs"}
+{"url":"https://gitlab.com/linux-wiiu/smp-patches.git","type":"git","repo":"linux-wiiu-smp-patches"}
+{"url":"https://gitlab.com/mt6735-mainline/bootshim.git","type":"git","repo":"mt6735-mainline-bootshim"}
+{"url":"https://git.gay/Fluxcord/core.git","type":"git","repo":"Fluxcord-core"}
+{"url":"https://github.com/yuzu-emu-mirror/liftinstall.git","type":"git","repo":"yuzu-liftinstall","private":true,"paused":true}
+{"url":"https://gitlab.com/echo-pmos/amazon-biscuit-vendor.git","type":"git","repo":"echo-pmos-amazon-biscuit-vendor"}
+{"url":"https://github.com/yuzu-emu-mirror/unicorn.git","type":"git","repo":"yuzu-unicorn","private":true,"paused":true}
