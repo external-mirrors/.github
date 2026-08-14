@@ -1,6 +1,7 @@
-{"url":"https://gitlab.metager.de/open-source/MetaGer.git","type":"git","repo":"MetaGer"}
-{"url":"https://gitlab.com/pvrports/pvrports.git","type":"git","repo":"pvrports"}
-{"url":"https://github.com/yuzu-emu-mirror/yuzu.git","type":"git","repo":"yuzu","private":true,"paused":true}
-{"url":"https://https.git.savannah.gnu.org/git/nano.git","type":"git","repo":"nano"}
-{"url":"https://git.launchpad.net/ubuntu/+source/linux-nvidia-7.0","type":"git","repo":"linux-nvidia-7.0","ignore":{"heads":["importer/ubuntu/pristine-tar"]}}
-{"url":"https://github.com/yuzu-emu-mirror/ext-windows-bin.git","type":"git","repo":"yuzu-ext-windows-bin","private":true,"paused":true}
+{"url":"https://git.code.sf.net/p/linuxjm/code","type":"git","repo":"linuxjm"}
+{"url":"https://git.gay/Fluxcord/core.git","type":"git","repo":"Fluxcord-core"}
+{"url":"https://git.ti.com/git/graphics/omap5-sgx-ddk-um-linux.git","type":"git","repo":"omap5-sgx-ddk-um-linux","private":true}
+{"url":"https://gitlab.com/linux-wiiu/linux-wiiu.org.git","type":"git","repo":"linux-wiiu.org"}
+{"url":"https://git.eden-emu.dev/eden-emu/eden.git","type":"git","repo":"eden","private":true,"paused":true}
+{"url":"https://github.com/neobrain/citra.git","type":"git","repo":"citra","private":true}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/boot-deploy.git","type":"git","repo":"pmos-boot-deploy"}

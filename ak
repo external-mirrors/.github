@@ -1,8 +1,8 @@
-{"url":"https://gitlab.com/mtk-mainline/mt6768/linux.git","type":"git","repo":"mt6768-mainline-linux"}
-{"url":"https://gitlab.com/linux-wiiu/linux-wiiu-scripts.git","type":"git","repo":"linux-wiiu-scripts"}
-{"url":"https://codeberg.org/Garnet/sgx540-reversing","type":"git","repo":"sgx540-reversing"}
-{"url":"https://codeberg.org/silverpill/mitra-web.git","type":"git","repo":"mitra-web"}
-{"url":"https://gitlab.com/mtk-mainline/mt6762/linux.git","type":"git","repo":"mt6762-mainline-linux"}
-{"url":"https://android.googlesource.com/kernel/mediatek","type":"git","repo":"aosp-kernel_mediatek"}
-{"url":"https://codeberg.org/grunfink/snac2","type":"git","repo":"snac2"}
-{"url":"https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git","type":"git","repo":"linux-next"}
+{"url":"https://codeberg.org/valpackett/linux-chatarra","type":"git","repo":"linux-chatarra"}
+{"url":"https://github.com/yuzu-emu-mirror/AppImageKit-checkrt.git","type":"git","repo":"yuzu-AppImageKit-checkrt","private":true,"paused":true}
+{"url":"https://https.git.savannah.gnu.org/git/paxutils.git","type":"git","repo":"paxutils"}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/pmaports.git","type":"git","repo":"pmaports"}
+{"url":"https://gitlab.com/android_translation_layer/art_standalone.git","type":"git","repo":"android_translation_layer-art_standalone"}
+{"url":"https://gitlab.postmarketos.org/mt6785-mainline/linux.git","type":"git","repo":"mt6785-mainline-linux"}
+{"url":"https://gitlab.com/sleirsgoevy/udt.git","type":"git","repo":"udt"}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/postmarketos-mkinitfs.git","type":"git","repo":"postmarketos-mkinitfs"}

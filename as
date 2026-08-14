@@ -1,7 +1,7 @@
-{"url":"https://github.com/yuzu-emu-mirror/shared-hugo-scripts.git","type":"git","repo":"yuzu-shared-hugo-scripts","private":true,"paused":true}
-{"url":"https://git.gay/Fluxcord/ibiscore.git","type":"git","repo":"Fluxcord-ibiscore"}
-{"url":"https://https.git.savannah.gnu.org/git/paxutils.git","type":"git","repo":"paxutils"}
-{"url":"https://gitlab.com/linux-wiiu/linux-loader.git","type":"git","repo":"linux-wiiu-linux-loader"}
-{"url":"https://gitlab.freedesktop.org/beignet/beignet.git","type":"git","repo":"beignet"}
-{"url":"https://gitlab.com/linux-wiiu/smp-patches.git","type":"git","repo":"linux-wiiu-smp-patches"}
-{"url":"https://gitlab.postmarketos.org/postmarketOS/systemd.git","type":"git","repo":"pmos-systemd"}
+{"url":"https://gitlab.com/mt6735-mainline/bootshim.git","type":"git","repo":"mt6735-mainline-bootshim"}
+{"url":"https://github.com/yuzu-emu-mirror/build-environments.git","type":"git","repo":"yuzu-build-environments","private":true,"paused":true}
+{"url":"https://github.com/yuzu-emu-mirror/breakpad.git","type":"git","repo":"yuzu-breakpad","private":true,"paused":true}
+{"url":"https://codeberg.org/forgejo/forgejo.git","type":"git","repo":"forgejo"}
+{"url":"https://gitlab.com/mtk-mainline/mt6763/linux.git","type":"git","repo":"mt6763-mainline-linux"}
+{"url":"https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git","type":"git","repo":"linux-next"}
+{"url":"https://github.com/yuzu-emu-mirror/discord-rpc.git","type":"git","repo":"yuzu-discord-rpc","private":true,"paused":true}
