@@ -1,7 +1,7 @@
-{"url":"https://github.com/yuzu-emu-mirror/ext-windows-bin.git","type":"git","repo":"yuzu-ext-windows-bin","private":true,"paused":true}
-{"url":"https://git.gay/Fluxcord/voice.git","type":"git","repo":"Fluxcord-voice"}
-{"url":"https://gitlab.com/nigelcunningham/tuxonice-kernel.git","type":"git","repo":"tuxonice-kernel"}
-{"url":"https://gitlab.com/echo-pmos/amazon-biscuit-kernel.git","type":"git","repo":"echo-pmos-amazon-biscuit-kernel"}
-{"url":"https://gitlab.freedesktop.org/imagination/linux-firmware.git","type":"git","repo":"linux-firmware-imagination"}
-{"url":"https://gitlab.com/linux-wiiu/linux-wiiu-scripts.git","type":"git","repo":"linux-wiiu-scripts"}
-{"url":"https://git.wut.ee/mikroskeem/aur-buildbot.git","type":"git","repo":"aur-buildbot"}
+{"url":"https://gitlab.com/exynos5-mainline/pmaports.git","type":"git","repo":"exynos5-mainline-pmaports"}
+{"url":"https://gitlab.freedesktop.org/wayland/weston.git","type":"git","repo":"weston"}
+{"url":"https://https.git.savannah.gnu.org/git/nano.git","type":"git","repo":"nano"}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/systemd.git","type":"git","repo":"pmos-systemd"}
+{"url":"https://gitlab.postmarketos.org/mt6785-mainline/linux.git","type":"git","repo":"mt6785-mainline-linux"}
+{"url":"https://gitlab.com/echo-pmos/amazon-baklava-kernel.git","type":"git","repo":"echo-pmos-amazon-baklava-kernel"}
+{"url":"https://gitlab.com/mtk-mainline/mt6763/linux.git","type":"git","repo":"mt6763-mainline-linux"}

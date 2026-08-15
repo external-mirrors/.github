@@ -1,8 +1,8 @@
-{"url":"https://gitlab.postmarketos.org/postmarketOS/systemd.git","type":"git","repo":"pmos-systemd"}
-{"url":"https://gitlab.postmarketos.org/mt6757-mainline/linux.git","type":"git","repo":"mt6757-mainline-linux"}
-{"url":"https://gitlab.com/sleirsgoevy/udt.git","type":"git","repo":"udt"}
-{"url":"https://gitlab.freedesktop.org/wayland/weston.git","type":"git","repo":"weston"}
-{"url":"https://gitlab.freedesktop.org/wlroots/wlroots.git","type":"git","repo":"wlroots"}
-{"url":"https://gitlab.metager.de/open-source/MetaGer.git","type":"git","repo":"MetaGer"}
-{"url":"https://github.com/neobrain/citra.git","type":"git","repo":"citra","private":true}
-{"url":"https://gitlab.com/echo-pmos/amazon-checkers-kernel.git","type":"git","repo":"echo-pmos-amazon-checkers-kernel"}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/boot-deploy.git","type":"git","repo":"pmos-boot-deploy"}
+{"url":"https://github.com/yuzu-emu-mirror/unicorn.git","type":"git","repo":"yuzu-unicorn","private":true,"paused":true}
+{"url":"https://gitlab.freedesktop.org/wayback/wayback.git","type":"git","repo":"wayback"}
+{"url":"https://git.gay/Fluxcord/ibiscore.git","type":"git","repo":"Fluxcord-ibiscore"}
+{"url":"https://gitlab.com/exynos5-mainline/linux.git","type":"git","repo":"exynos5-mainline-linux"}
+{"url":"https://gitlab.com/exynos5-mainline/u-boot.git","type":"git","repo":"exynos5-mainline-u-boot"}
+{"url":"https://gitlab.com/kernel-firmware/linux-firmware.git","type":"git","repo":"linux-firmware"}
+{"url":"https://gitlab.com/linux-wiiu/smp-patches.git","type":"git","repo":"linux-wiiu-smp-patches"}

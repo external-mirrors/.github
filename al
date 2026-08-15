@@ -1,7 +1,8 @@
-{"url":"https://github.com/yuzu-emu-mirror/Command-fix.git","type":"git","repo":"yuzu-Command-fix","private":true,"paused":true}
 {"url":"https://gitlab.com/exynos5-mainline/linux-downstream.git","type":"git","repo":"exynos5-mainline-linux-downstream"}
-{"url":"https://codeberg.org/ums9230-mainline/linux.git","type":"git","repo":"ums9230-mainline-linux"}
-{"url":"https://https.git.savannah.gnu.org/git/paxutils.git","type":"git","repo":"paxutils"}
-{"url":"https://gitlab.com/mtk-mainline/mt6762/linux.git","type":"git","repo":"mt6762-mainline-linux"}
-{"url":"https://gitlab.com/sm6225-mainline/linux.git","type":"git","repo":"sm6225-mainline-linux"}
-{"url":"https://gitlab.com/linux-wiiu/petitboot-build.git","type":"git","repo":"linux-wiiu-petitboot-build"}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/pmaports.git","type":"git","repo":"pmaports"}
+{"url":"https://gitlab.com/echo-pmos/pmaports.git","type":"git","repo":"echo-pmos-pmaports"}
+{"url":"https://gitlab.freedesktop.org/wlroots/wlroots.git","type":"git","repo":"wlroots"}
+{"url":"https://git.sr.ht/~calebccff/pbsplash","type":"git","repo":"pbsplash"}
+{"url":"https://gitlab.com/mt6735-mainline/linux.git","type":"git","repo":"mt6735-mainline-linux"}
+{"url":"https://chromium.googlesource.com/chromiumos/third_party/kernel","type":"git","repo":"chromiumos-third_party-kernel"}
+{"url":"https://gitlab.com/mt6735-mainline/pmaports.git","type":"git","repo":"mt6735-mainline-pmaports"}
