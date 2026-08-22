@@ -1,8 +1,9 @@
-{"url":"https://codeberg.org/grunfink/snac2","type":"git","repo":"snac2"}
-{"url":"https://gitlab.com/mt6735-mainline/linux.git","type":"git","repo":"mt6735-mainline-linux"}
-{"url":"https://git.sr.ht/~leon_plickat/wayneko","type":"git","repo":"wayneko"}
-{"url":"https://gitlab.freedesktop.org/StaticRocket/mesa.git/","type":"git","repo":"mesa-powervr"}
-{"url":"https://https.git.savannah.gnu.org/git/nano.git","type":"git","repo":"nano"}
-{"url":"https://gitlab.com/exynos5-mainline/linux.git","type":"git","repo":"exynos5-mainline-linux"}
-{"url":"https://gitlab.metager.de/open-source/MetaGer.git","type":"git","repo":"MetaGer"}
-{"url":"https://gitlab.com/echo-pmos/amazon-checkers-kernel.git","type":"git","repo":"echo-pmos-amazon-checkers-kernel"}
+{"url":"https://gitlab.com/adomerle/edk2-mt6765.git","type":"git","repo":"edk2-mt6765"}
+{"url":"https://git.sr.ht/~cloutier/bird.makeup","type":"git","repo":"bird.makeup","paused":true}
+{"url":"https://gitlab.com/echo-pmos/amazon-checkers-vendor.git","type":"git","repo":"echo-pmos-amazon-checkers-vendor"}
+{"url":"https://git.gay/Fluxcord/dev.git","type":"git","repo":"Fluxcord-dev"}
+{"url":"https://git.hq.sig7.se/zutty.git","type":"git","repo":"zutty"}
+{"url":"https://gitlab.com/mtk-mainline/mt6763/linux.git","type":"git","repo":"mt6763-mainline-linux"}
+{"url":"https://git.pleroma.social/pleroma/pleroma.git","type":"git","repo":"pleroma"}
+{"url":"https://git.gay/Fluxcord/voice.git","type":"git","repo":"Fluxcord-voice"}
+{"url":"https://gitlab.com/echo-pmos/amazon-baklava-kernel.git","type":"git","repo":"echo-pmos-amazon-baklava-kernel"}

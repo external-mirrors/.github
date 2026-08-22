@@ -1,7 +1,7 @@
+{"url":"https://git.ti.com/git/graphics/omap5-sgx-ddk-linux.git","type":"git","repo":"omap5-sgx-ddk-linux"}
 {"url":"https://gitlab.postmarketos.org/postmarketOS/buffybox.git","type":"git","repo":"buffybox"}
-{"url":"https://git.citron-emu.org/citron/emulator.git","type":"git","repo":"citron","private":true,"paused":true}
-{"url":"https://github.com/yuzu-emu-mirror/liftinstall.git","type":"git","repo":"yuzu-liftinstall","private":true,"paused":true}
-{"url":"https://github.com/yuzu-emu-mirror/AppImageKit-checkrt.git","type":"git","repo":"yuzu-AppImageKit-checkrt","private":true,"paused":true}
-{"url":"https://git.launchpad.net/ubuntu/+source/linux-nvidia-6.14","type":"git","repo":"linux-nvidia-6.14","ignore":{"heads":["importer/ubuntu/pristine-tar"]}}
-{"url":"https://gitlab.freedesktop.org/wlroots/wlroots.git","type":"git","repo":"wlroots"}
-{"url":"https://gitlab.com/linux-wiiu/linux-loader.git","type":"git","repo":"linux-wiiu-linux-loader"}
+{"url":"https://codeberg.org/ums9230-mainline/alsa-ucm-conf.git","type":"git","repo":"ums9230-mainline-alsa-ucm-conf"}
+{"url":"https://gitlab.com/echo-pmos/amazon-biscuit-vendor.git","type":"git","repo":"echo-pmos-amazon-biscuit-vendor"}
+{"url":"https://github.com/yuzu-emu-mirror/yuzu-android.git","type":"git","repo":"yuzu-android","private":true,"paused":true}
+{"url":"https://codeberg.org/ums9230-mainline/u-boot.git","type":"git","repo":"ums9230-mainline-u-boot"}
+{"url":"https://gitlab.com/pvrports/p-wlroots.git","type":"git","repo":"p-wlroots"}

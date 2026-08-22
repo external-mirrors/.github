@@ -1,6 +1,7 @@
-{"url":"https://android.googlesource.com/kernel/mediatek","type":"git","repo":"aosp-kernel_mediatek"}
-{"url":"https://https.git.savannah.gnu.org/git/paxutils.git","type":"git","repo":"paxutils"}
-{"url":"https://gitlab.com/android_translation_layer/android_translation_layer.git","type":"git","repo":"android_translation_layer"}
-{"url":"https://github.com/yuzu-emu-mirror/yuzu-emu.github.io.git","type":"git","repo":"yuzu-emu.github.io","private":true,"paused":true}
-{"url":"https://gitlab.com/mt6735-mainline/u-boot.git","type":"git","repo":"mt6735-mainline-u-boot"}
-{"url":"https://github.com/yuzu-emu-mirror/ext-windows-bin.git","type":"git","repo":"yuzu-ext-windows-bin","private":true,"paused":true}
+{"url":"https://akkoma.dev/AkkomaGang/akkoma.git","type":"git","repo":"akkoma"}
+{"url":"https://gitlab.com/kernel-firmware/linux-firmware.git","type":"git","repo":"linux-firmware"}
+{"url":"https://codeberg.org/silverpill/mitra-web.git","type":"git","repo":"mitra-web"}
+{"url":"https://git.gay/Fluxcord/site.git","type":"git","repo":"Fluxcord-site"}
+{"url":"https://gitlab.com/mtk-mainline/mt6762/linux.git","type":"git","repo":"mt6762-mainline-linux"}
+{"url":"https://git.launchpad.net/ubuntu/+source/linux-nvidia-6.17","type":"git","repo":"linux-nvidia-6.17","ignore":{"heads":["importer/ubuntu/pristine-tar"]}}
+{"url":"https://git.sr.ht/~leon_plickat/wayneko","type":"git","repo":"wayneko"}

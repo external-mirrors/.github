@@ -1,7 +1,8 @@
-{"url":"https://gitlab.com/mt6735-mainline/bootshim.git","type":"git","repo":"mt6735-mainline-bootshim"}
-{"url":"https://gitlab.postmarketos.org/postmarketOS/systemd.git","type":"git","repo":"pmos-systemd"}
-{"url":"https://git.hq.sig7.se/zutty.git","type":"git","repo":"zutty"}
-{"url":"https://git.launchpad.net/ubuntu/+source/linux-nvidia-7.0","type":"git","repo":"linux-nvidia-7.0","ignore":{"heads":["importer/ubuntu/pristine-tar"]}}
-{"url":"https://gitlab.freedesktop.org/xorg/xserver.git","type":"git","repo":"xorg-xserver"}
-{"url":"https://codeberg.org/ums9230-mainline/libcamera.git","type":"git","repo":"ums9230-mainline-libcamera"}
-{"url":"https://github.com/yuzu-emu-mirror/.github.git","type":"git","repo":"yuzu-emu-mirror-.github","private":true,"paused":true}
+{"url":"https://android.googlesource.com/kernel/mediatek","type":"git","repo":"aosp-kernel_mediatek"}
+{"url":"https://git.gay/Fluxcord/core.git","type":"git","repo":"Fluxcord-core"}
+{"url":"https://gitlab.com/linux-wiiu/linux-loader.git","type":"git","repo":"linux-wiiu-linux-loader"}
+{"url":"https://gitlab.postmarketos.org/mt6757-mainline/linux.git","type":"git","repo":"mt6757-mainline-linux"}
+{"url":"git://linux-libre.fsfla.org/releases.git","type":"git","repo":"linux-libre"}
+{"url":"https://github.com/yuzu-emu-mirror/.archive.git","type":"git","repo":"yuzu-archives","private":true,"paused":true}
+{"url":"https://github.com/yuzu-emu-mirror/yuzu-games-wiki.git","type":"git","repo":"yuzu-games-wiki","private":true,"paused":true}
+{"url":"https://gitlab.freedesktop.org/pipewire/helvum.git","type":"git","repo":"helvum"}
