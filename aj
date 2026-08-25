@@ -1,8 +1,8 @@
-{"url":"https://gitlab.com/exynos5-mainline/linux.git","type":"git","repo":"exynos5-mainline-linux"}
-{"url":"https://gitlab.freedesktop.org/pipewire/helvum.git","type":"git","repo":"helvum"}
+{"url":"https://https.git.savannah.gnu.org/git/hurd/hurd.git","type":"git","repo":"hurd"}
+{"url":"https://git.code.sf.net/p/linuxjm/code","type":"git","repo":"linuxjm"}
+{"url":"https://gitlab.freedesktop.org/beignet/beignet.git","type":"git","repo":"beignet"}
 {"url":"https://gitlab.com/mt6735-mainline/bootshim.git","type":"git","repo":"mt6735-mainline-bootshim"}
-{"url":"https://gitlab.com/echo-pmos/amazon-checkers-vendor.git","type":"git","repo":"echo-pmos-amazon-checkers-vendor"}
-{"url":"https://gitlab.com/adomerle/edk2-mt6765.git","type":"git","repo":"edk2-mt6765"}
-{"url":"https://codeberg.org/ums9230-mainline/alsa-ucm-conf.git","type":"git","repo":"ums9230-mainline-alsa-ucm-conf"}
-{"url":"https://gitlab.com/echo-pmos/amazon-biscuit-kernel.git","type":"git","repo":"echo-pmos-amazon-biscuit-kernel"}
-{"url":"https://gitlab.com/linux-wiiu/linux-loader.git","type":"git","repo":"linux-wiiu-linux-loader"}
+{"url":"https://gitlab.com/echo-pmos/pmaports.git","type":"git","repo":"echo-pmos-pmaports"}
+{"url":"https://git.sr.ht/~leon_plickat/wayneko","type":"git","repo":"wayneko"}
+{"url":"https://gitlab.freedesktop.org/pipewire/helvum.git","type":"git","repo":"helvum"}
+{"url":"https://github.com/yuzu-emu-mirror/discord-open-source.git","type":"git","repo":"yuzu-discord-open-source","private":true,"paused":true}
