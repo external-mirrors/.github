@@ -1,0 +1,8 @@
+{"url":"https://gitlab.freedesktop.org/wayland/weston.git","type":"git","repo":"weston"}
+{"url":"https://gitlab.com/sleirsgoevy/zimage64.git","type":"git","repo":"zimage64"}
+{"url":"https://github.com/citra-mirror/citra.git","type":"git","repo":"citra-mirror","private":true}
+{"url":"https://github.com/yuzu-emu-mirror/sirit.git","type":"git","repo":"yuzu-sirit","private":true,"paused":true}
+{"url":"https://git.savannah.nongnu.org/git/linux-libre-fw.git","type":"git","repo":"linux-libre-fw"}
+{"url":"https://git.savannah.gnu.org/git/gnulib.git/","type":"git","repo":"gnulib"}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/pmbootstrap.git","type":"git","repo":"pmbootstrap"}
+{"url":"https://repo.dec05eba.com/phoenix","type":"git","repo":"phoenix"}
