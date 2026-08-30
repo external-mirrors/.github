@@ -1,8 +1,6 @@
-{"url":"https://github.com/yuzu-emu-mirror/liftinstall.git","type":"git","repo":"yuzu-liftinstall","private":true,"paused":true}
-{"url":"https://gitlab.com/vinibali/linux.git/","type":"git","repo":"mt6589-mainline-linux-vinibali"}
-{"url":"https://https.git.savannah.gnu.org/git/hurd/gnumach.git","type":"git","repo":"gnumach"}
-{"url":"https://git.hq.sig7.se/zutty.git","type":"git","repo":"zutty"}
-{"url":"https://gitlab.com/mtk-mainline/mt6755/linux.git","type":"git","repo":"mt6755-mainline-linux"}
-{"url":"https://git.gay/Fluxcord/site.git","type":"git","repo":"Fluxcord-site"}
-{"url":"https://git.gay/Fluxcord/voice.git","type":"git","repo":"Fluxcord-voice"}
-{"url":"https://gitlab.postmarketos.org/mt6785-mainline/linux.git","type":"git","repo":"mt6785-mainline-linux"}
+{"url":"https://gitlab.com/android_translation_layer/art_standalone.git","type":"git","repo":"android_translation_layer-art_standalone"}
+{"url":"https://gitlab.com/sm6225-mainline/linux.git","type":"git","repo":"sm6225-mainline-linux"}
+{"url":"https://github.com/yuzu-emu-mirror/build-environments.git","type":"git","repo":"yuzu-build-environments","private":true,"paused":true}
+{"url":"https://git.launchpad.net/ubuntu/+source/linux-nvidia-7.0","type":"git","repo":"linux-nvidia-7.0","ignore":{"heads":["importer/ubuntu/pristine-tar"]}}
+{"url":"https://github.com/yuzu-emu-mirror/citra-qt-installer.git","type":"git","repo":"yuzu-citra-qt-installer","private":true,"paused":true}
+{"url":"https://github.com/yuzu-emu-mirror/AppImageKit-checkrt.git","type":"git","repo":"yuzu-AppImageKit-checkrt","private":true,"paused":true}

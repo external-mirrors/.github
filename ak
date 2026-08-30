@@ -1,7 +1,7 @@
-{"url":"https://gitlab.com/android_translation_layer/android_translation_layer.git","type":"git","repo":"android_translation_layer"}
-{"url":"https://gitlab.com/ubports/development/core/lomiri.git","type":"git","repo":"lomiri"}
-{"url":"https://gitlab.com/exynos5-mainline/pmaports.git","type":"git","repo":"exynos5-mainline-pmaports"}
-{"url":"https://chromium.googlesource.com/chromiumos/third_party/kernel","type":"git","repo":"chromiumos-third_party-kernel"}
-{"url":"https://akkoma.dev/AkkomaGang/akkoma.git","type":"git","repo":"akkoma"}
-{"url":"https://gitlab.com/sm6225-mainline/linux.git","type":"git","repo":"sm6225-mainline-linux"}
-{"url":"https://github.com/yuzu-emu-mirror/yuzu-multiplayer-dedicated.git","type":"git","repo":"yuzu-multiplayer-dedicated","private":true,"paused":true}
+{"url":"https://github.com/yuzu-emu-mirror/.archive.git","type":"git","repo":"yuzu-archives","private":true,"paused":true}
+{"url":"https://git.code.sf.net/p/linuxjm/code","type":"git","repo":"linuxjm"}
+{"url":"https://github.com/yuzu-emu-mirror/ext-linux-bin.git","type":"git","repo":"yuzu-ext-linux-bin","private":true,"paused":true}
+{"url":"https://git.ti.com/git/graphics/omap5-sgx-ddk-um-linux.git","type":"git","repo":"omap5-sgx-ddk-um-linux","private":true}
+{"url":"https://gitlab.com/mt6735-mainline/bootshim.git","type":"git","repo":"mt6735-mainline-bootshim"}
+{"url":"https://gitlab.com/adomerle/edk2-mt6765.git","type":"git","repo":"edk2-mt6765"}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/pmbootstrap.git","type":"git","repo":"pmbootstrap"}
