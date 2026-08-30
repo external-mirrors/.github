@@ -1,4 +1,7 @@
-{"url":"https://github.com/yuzu-emu-mirror/.archive.git","type":"git","repo":"yuzu-archives","private":true,"paused":true}
-{"url":"https://codeberg.org/silverpill/mitra-web.git","type":"git","repo":"mitra-web"}
-{"url":"https://github.com/yuzu-emu-mirror/FasTC.git","type":"git","repo":"yuzu-FasTC","private":true,"paused":true}
-{"url":"https://github.com/yuzu-emu-mirror/shared-bulma-theme.git","type":"git","repo":"yuzu-shared-bulma-theme","private":true,"paused":true}
+{"url":"https://github.com/yuzu-emu-mirror/Command-fix.git","type":"git","repo":"yuzu-Command-fix","private":true,"paused":true}
+{"url":"https://gitlab.freedesktop.org/libinput/libinput.git","type":"git","repo":"libinput"}
+{"url":"https://gitlab.com/mt6735-mainline/u-boot.git","type":"git","repo":"mt6735-mainline-u-boot"}
+{"url":"https://gitlab.freedesktop.org/wayland/weston.git","type":"git","repo":"weston"}
+{"url":"https://git.code.sf.net/p/linuxjm/code","type":"git","repo":"linuxjm"}
+{"url":"https://github.com/yuzu-emu-mirror/ext-linux-bin.git","type":"git","repo":"yuzu-ext-linux-bin","private":true,"paused":true}
+{"url":"https://gitlab.freedesktop.org/mstoeckl/waypipe.git","type":"git","repo":"waypipe"}
