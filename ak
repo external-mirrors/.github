@@ -1,7 +1,6 @@
-{"url":"https://gitlab.postmarketos.org/mt6757-mainline/linux.git","type":"git","repo":"mt6757-mainline-linux"}
-{"url":"https://git.sr.ht/~leon_plickat/wayneko","type":"git","repo":"wayneko"}
-{"url":"https://git.hq.sig7.se/zutty.git","type":"git","repo":"zutty"}
-{"url":"https://github.com/yuzu-emu-mirror/sirit.git","type":"git","repo":"yuzu-sirit","private":true,"paused":true}
-{"url":"https://gitlab.freedesktop.org/imagination/linux-firmware.git","type":"git","repo":"linux-firmware-imagination"}
-{"url":"https://gitlab.com/mt6735-mainline/bootshim.git","type":"git","repo":"mt6735-mainline-bootshim"}
-{"url":"https://git.wut.ee/mikroskeem/aur-buildbot.git","type":"git","repo":"aur-buildbot"}
+{"url":"https://github.com/yuzu-emu-mirror/yuzu-assets.git","type":"git","repo":"yuzu-yuzu-assets","private":true,"paused":true}
+{"url":"https://git.launchpad.net/ubuntu/+source/linux-nvidia-6.14","type":"git","repo":"linux-nvidia-6.14","ignore":{"heads":["importer/ubuntu/pristine-tar"]}}
+{"url":"https://gitlab.com/echo-pmos/amazon-baklava-kernel.git","type":"git","repo":"echo-pmos-amazon-baklava-kernel"}
+{"url":"https://codeberg.org/ums9230-mainline/alsa-ucm-conf.git","type":"git","repo":"ums9230-mainline-alsa-ucm-conf"}
+{"url":"https://github.com/yuzu-emu-mirror/citra-qt-installer.git","type":"git","repo":"yuzu-citra-qt-installer","private":true,"paused":true}
+{"url":"https://git.sr.ht/~calebccff/pbsplash","type":"git","repo":"pbsplash"}

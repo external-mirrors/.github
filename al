@@ -1,7 +1,7 @@
-{"url":"https://gitlab.postmarketos.org/mt6785-mainline/linux.git","type":"git","repo":"mt6785-mainline-linux"}
-{"url":"https://gitlab.com/linux-wiiu/linux-wiiu.org.git","type":"git","repo":"linux-wiiu.org"}
-{"url":"https://github.com/yuzu-emu-mirror/yuzu-assets.git","type":"git","repo":"yuzu-yuzu-assets","private":true,"paused":true}
-{"url":"https://gitlab.com/android_translation_layer/art_standalone.git","type":"git","repo":"android_translation_layer-art_standalone"}
-{"url":"https://gitlab.postmarketos.org/postmarketOS/pmaports.git","type":"git","repo":"pmaports"}
-{"url":"git://linux-libre.fsfla.org/releases.git","type":"git","repo":"linux-libre"}
-{"url":"https://codeberg.org/silverpill/mitra.git","type":"git","repo":"mitra"}
+{"url":"https://github.com/citra-mirror/citra.git","type":"git","repo":"citra-mirror","private":true}
+{"url":"https://git.pleroma.social/pleroma/pleroma.git","type":"git","repo":"pleroma"}
+{"url":"https://gitlab.freedesktop.org/xorg/xserver.git","type":"git","repo":"xorg-xserver"}
+{"url":"https://gitlab.com/mt6735-mainline/bootshim.git","type":"git","repo":"mt6735-mainline-bootshim"}
+{"url":"https://gitlab.com/exynos5-mainline/linux-downstream.git","type":"git","repo":"exynos5-mainline-linux-downstream"}
+{"url":"https://gitlab.com/echo-pmos/amazon-biscuit-vendor.git","type":"git","repo":"echo-pmos-amazon-biscuit-vendor"}
+{"url":"https://gitlab.com/kernel-firmware/linux-firmware.git","type":"git","repo":"linux-firmware"}
