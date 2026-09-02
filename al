@@ -1,7 +1,8 @@
-{"url":"https://github.com/citra-mirror/citra.git","type":"git","repo":"citra-mirror","private":true}
-{"url":"https://git.pleroma.social/pleroma/pleroma.git","type":"git","repo":"pleroma"}
-{"url":"https://gitlab.freedesktop.org/xorg/xserver.git","type":"git","repo":"xorg-xserver"}
-{"url":"https://gitlab.com/mt6735-mainline/bootshim.git","type":"git","repo":"mt6735-mainline-bootshim"}
-{"url":"https://gitlab.com/exynos5-mainline/linux-downstream.git","type":"git","repo":"exynos5-mainline-linux-downstream"}
-{"url":"https://gitlab.com/echo-pmos/amazon-biscuit-vendor.git","type":"git","repo":"echo-pmos-amazon-biscuit-vendor"}
-{"url":"https://gitlab.com/kernel-firmware/linux-firmware.git","type":"git","repo":"linux-firmware"}
+{"url":"https://gitlab.com/mt6735-mainline/u-boot.git","type":"git","repo":"mt6735-mainline-u-boot"}
+{"url":"https://github.com/yuzu-emu-mirror/yuzu.git","type":"git","repo":"yuzu","private":true,"paused":true}
+{"url":"https://github.com/yuzu-emu-mirror/sirit.git","type":"git","repo":"yuzu-sirit","private":true,"paused":true}
+{"url":"https://gitlab.com/sm6225-mainline/linux.git","type":"git","repo":"sm6225-mainline-linux"}
+{"url":"https://gitlab.com/mtk-mainline/mt6755/linux.git","type":"git","repo":"mt6755-mainline-linux"}
+{"url":"https://gitlab.com/linux-wiiu/linux-wiiu.git","type":"git","repo":"linux-wiiu"}
+{"url":"https://git.sr.ht/~cloutier/bird.makeup","type":"git","repo":"bird.makeup","paused":true}
+{"url":"https://git.gay/Fluxcord/site.git","type":"git","repo":"Fluxcord-site"}

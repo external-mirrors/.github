@@ -1,8 +1,7 @@
-{"url":"https://git.wut.ee/mikroskeem/aur-buildbot.git","type":"git","repo":"aur-buildbot"}
-{"url":"https://git.gay/Fluxcord/core.git","type":"git","repo":"Fluxcord-core"}
-{"url":"https://codeberg.org/ums9230-mainline/linux.git","type":"git","repo":"ums9230-mainline-linux"}
-{"url":"https://github.com/yuzu-emu-mirror/.archive.git","type":"git","repo":"yuzu-archives","private":true,"paused":true}
-{"url":"https://git.code.sf.net/p/linuxjm/code","type":"git","repo":"linuxjm"}
-{"url":"https://git.gay/Fluxcord/ibiscore.git","type":"git","repo":"Fluxcord-ibiscore"}
-{"url":"https://gitlab.postmarketos.org/postmarketOS/pmaports.git","type":"git","repo":"pmaports"}
-{"url":"https://gitlab.com/sleirsgoevy/udt.git","type":"git","repo":"udt"}
+{"url":"https://codeberg.org/ums9230-mainline/alsa-ucm-conf.git","type":"git","repo":"ums9230-mainline-alsa-ucm-conf"}
+{"url":"https://gitlab.freedesktop.org/wlroots/wlroots.git","type":"git","repo":"wlroots"}
+{"url":"https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git","type":"git","repo":"linux-next"}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/boot-deploy.git","type":"git","repo":"pmos-boot-deploy"}
+{"url":"https://gitlab.com/exynos5-mainline/pmaports.git","type":"git","repo":"exynos5-mainline-pmaports"}
+{"url":"https://gitlab.freedesktop.org/imagination/linux-firmware.git","type":"git","repo":"linux-firmware-imagination"}
+{"url":"https://gitlab.com/UniQMG/tetrio-plus.git","type":"git","repo":"tetrio-plus"}
