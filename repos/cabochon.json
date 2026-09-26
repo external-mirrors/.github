@@ -1,0 +1,29 @@
+[{
+  "url": "https://codeberg.org/cabochon/linux",
+  "type": "git",
+  "repo": "cabochon-linux"
+}, {
+  "url": "https://codeberg.org/cabochon/fw-build",
+  "type": "git",
+  "repo": "cabochon-fw-build"
+}, {
+  "url": "https://codeberg.org/cabochon/barebox",
+  "type": "git",
+  "repo": "cabochon-barebox"
+}, {
+  "url": "https://codeberg.org/cabochon/coreboot",
+  "type": "git",
+  "repo": "cabochon-coreboot"
+}, {
+  "url": "https://codeberg.org/cabochon/u-boot",
+  "type": "git",
+  "repo": "cabochon-u-boot"
+}, {
+  "url": "https://codeberg.org/cabochon/depthcharge-tools",
+  "type": "git",
+  "repo": "cabochon-depthcharge-tools"
+}, {
+  "url": "https://codeberg.org/cabochon/cros-linuxboot",
+  "type": "git",
+  "repo": "cabochon-cros-linuxboot"
+}]
