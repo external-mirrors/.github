@@ -1,8 +1,7 @@
-{"url":"https://gitlab.postmarketos.org/postmarketOS/boot-deploy.git","type":"git","repo":"pmos-boot-deploy"}
-{"url":"https://codeberg.org/ums9230-mainline/u-boot.git","type":"git","repo":"ums9230-mainline-u-boot"}
-{"url":"https://gitlab.freedesktop.org/libinput/libinput.git","type":"git","repo":"libinput"}
-{"url":"https://github.com/yuzu-emu-mirror/yuzu-multiplayer-dedicated.git","type":"git","repo":"yuzu-multiplayer-dedicated","private":true,"paused":true}
-{"url":"https://github.com/yuzu-emu-mirror/yuzu-android.git","type":"git","repo":"yuzu-android","private":true,"paused":true}
-{"url":"https://gitlab.com/linux-wiiu/linux-wiiu-scripts.git","type":"git","repo":"linux-wiiu-scripts"}
-{"url":"https://gitlab.com/pvrports/pvrports.git","type":"git","repo":"pvrports"}
-{"url":"https://gitlab.com/android_translation_layer/android_translation_layer.git","type":"git","repo":"android_translation_layer"}
+{"url":"https://gitlab.com/linux-wiiu/smp-patches.git","type":"git","repo":"linux-wiiu-smp-patches"}
+{"url":"https://git.gay/Fluxcord/ibiscore.git","type":"git","repo":"Fluxcord-ibiscore"}
+{"url":"https://codeberg.org/ums9230-mainline/linux.git","type":"git","repo":"ums9230-mainline-linux"}
+{"url":"https://git.launchpad.net/ubuntu/+source/linux-nvidia-7.0","type":"git","repo":"linux-nvidia-7.0","ignore":{"heads":["importer/ubuntu/pristine-tar"]}}
+{"url":"https://github.com/yuzu-emu-mirror/mbedtls.git","type":"git","repo":"yuzu-mbedtls","private":true,"paused":true}
+{"url":"https://codeberg.org/cabochon/fw-build","type":"git","repo":"cabochon-fw-build"}
+{"url":"https://github.com/yuzu-emu-mirror/discord-open-source.git","type":"git","repo":"yuzu-discord-open-source","private":true,"paused":true}

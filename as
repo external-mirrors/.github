@@ -1,8 +1,9 @@
-{"url":"https://repo.dec05eba.com/phoenix","type":"git","repo":"phoenix"}
-{"url":"https://gitlab.com/kernel-firmware/linux-firmware.git","type":"git","repo":"linux-firmware"}
-{"url":"https://gitlab.com/mtk-mainline/mt6762/linux.git","type":"git","repo":"mt6762-mainline-linux"}
-{"url":"https://github.com/yuzu-emu-mirror/citra-qt-installer.git","type":"git","repo":"yuzu-citra-qt-installer","private":true,"paused":true}
-{"url":"https://gitlab.com/linux-wiiu/linux-wiiu.git","type":"git","repo":"linux-wiiu"}
-{"url":"https://github.com/yuzu-emu-mirror/ext-android-bin.git","type":"git","repo":"yuzu-ext-android-bin","private":true,"paused":true}
-{"url":"https://gitlab.com/exynos5-mainline/linux-downstream.git","type":"git","repo":"exynos5-mainline-linux-downstream"}
-{"url":"https://codeberg.org/ums9230-mainline/alsa-ucm-conf.git","type":"git","repo":"ums9230-mainline-alsa-ucm-conf"}
+{"url":"https://chromium.googlesource.com/chromiumos/third_party/kernel","type":"git","repo":"chromiumos-third_party-kernel"}
+{"url":"https://gitlab.com/exynos5-mainline/u-boot.git","type":"git","repo":"exynos5-mainline-u-boot"}
+{"url":"https://codeberg.org/cabochon/barebox","type":"git","repo":"cabochon-barebox"}
+{"url":"https://codeberg.org/grunfink/snac2","type":"git","repo":"snac2"}
+{"url":"https://gitlab.freedesktop.org/xorg/xserver.git","type":"git","repo":"xorg-xserver"}
+{"url":"https://git.pleroma.social/pleroma/pleroma.git","type":"git","repo":"pleroma"}
+{"url":"https://gitlab.freedesktop.org/pipewire/helvum.git","type":"git","repo":"helvum"}
+{"url":"https://github.com/yuzu-emu-mirror/discord-rpc.git","type":"git","repo":"yuzu-discord-rpc","private":true,"paused":true}
+{"url":"https://gitlab.freedesktop.org/StaticRocket/mesa.git/","type":"git","repo":"mesa-powervr"}
