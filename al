@@ -1,9 +1,8 @@
-{"url":"https://https.git.savannah.gnu.org/git/hurd/hurd.git","type":"git","repo":"hurd"}
-{"url":"https://gitlab.com/mt6735-mainline/u-boot.git","type":"git","repo":"mt6735-mainline-u-boot"}
-{"url":"https://gitlab.com/exynos5-mainline/linux.git","type":"git","repo":"exynos5-mainline-linux"}
-{"url":"https://git.hq.sig7.se/zutty.git","type":"git","repo":"zutty"}
-{"url":"https://gitlab.com/echo-pmos/amazon-checkers-kernel.git","type":"git","repo":"echo-pmos-amazon-checkers-kernel"}
-{"url":"https://github.com/yuzu-emu-mirror/FasTC.git","type":"git","repo":"yuzu-FasTC","private":true,"paused":true}
-{"url":"https://codeberg.org/libre-tegra/xf86-video-opentegra.git","type":"git","repo":"libre-tegra-xf86-video-opentegra"}
-{"url":"https://github.com/yuzu-emu-mirror/ext-linux-bin.git","type":"git","repo":"yuzu-ext-linux-bin","private":true,"paused":true}
-{"url":"https://gitlab.freedesktop.org/pipewire/helvum.git","type":"git","repo":"helvum"}
+{"url":"https://gitlab.com/mtk-mainline/mt6763/linux.git","type":"git","repo":"mt6763-mainline-linux"}
+{"url":"https://codeberg.org/cabochon/depthcharge-tools","type":"git","repo":"cabochon-depthcharge-tools"}
+{"url":"https://gitlab.com/android_translation_layer/android_translation_layer.git","type":"git","repo":"android_translation_layer"}
+{"url":"https://github.com/yuzu-emu-mirror/ext-windows-bin.git","type":"git","repo":"yuzu-ext-windows-bin","private":true,"paused":true}
+{"url":"https://gitlab.com/exynos5-mainline/linux-downstream.git","type":"git","repo":"exynos5-mainline-linux-downstream"}
+{"url":"https://gitlab.com/exynos5-mainline/u-boot.git","type":"git","repo":"exynos5-mainline-u-boot"}
+{"url":"https://codeberg.org/libre-tegra/tegra-timings-generator.git","type":"git","repo":"libre-tegra-tegra-timings-generator"}
+{"url":"https://codeberg.org/silverpill/mitra-web.git","type":"git","repo":"mitra-web"}
