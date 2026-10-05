@@ -1,9 +1,4 @@
-{"url":"https://gitlab.com/mt6589-mainline/linux.git/","type":"git","repo":"mt6589-mainline-linux-tooniis"}
-{"url":"https://github.com/yuzu-emu-mirror/sirit.git","type":"git","repo":"yuzu-sirit","private":true,"paused":true}
-{"url":"https://gitlab.postmarketos.org/postmarketOS/pmbootstrap.git","type":"git","repo":"pmbootstrap"}
-{"url":"https://gitlab.com/sleirsgoevy/udt.git","type":"git","repo":"udt"}
-{"url":"https://codeberg.org/libre-tegra/user-documentation.git","type":"git","repo":"libre-tegra-user-documentation"}
-{"url":"https://codeberg.org/cabochon/depthcharge-tools","type":"git","repo":"cabochon-depthcharge-tools"}
-{"url":"https://gitlab.com/echo-pmos/amazon-biscuit-vendor.git","type":"git","repo":"echo-pmos-amazon-biscuit-vendor"}
-{"url":"https://git.pleroma.social/pleroma/pleroma.git","type":"git","repo":"pleroma"}
-{"url":"https://github.com/yuzu-emu-mirror/Command-fix.git","type":"git","repo":"yuzu-Command-fix","private":true,"paused":true}
+{"url":"https://git.ti.com/git/graphics/omap5-sgx-ddk-linux.git","type":"git","repo":"omap5-sgx-ddk-linux"}
+{"url":"https://gitlab.com/echo-pmos/amazon-baklava-kernel.git","type":"git","repo":"echo-pmos-amazon-baklava-kernel"}
+{"url":"https://github.com/yuzu-emu-mirror/yuzu.git","type":"git","repo":"yuzu","private":true,"paused":true}
+{"url":"https://codeberg.org/libre-tegra/xf86-video-opentegra.git","type":"git","repo":"libre-tegra-xf86-video-opentegra"}
