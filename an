@@ -1,1 +1,8 @@
-{"url":"https://github.com/yuzu-emu-mirror/shared-bulma-theme.git","type":"git","repo":"yuzu-shared-bulma-theme","private":true,"paused":true}
+{"url":"https://git.sr.ht/~calebccff/pbsplash","type":"git","repo":"pbsplash"}
+{"url":"https://codeberg.org/libre-tegra/u-boot.git","type":"git","repo":"libre-tegra-u-boot"}
+{"url":"https://gitlab.com/linux-wiiu/linux-wiiu.org.git","type":"git","repo":"linux-wiiu.org"}
+{"url":"https://gitlab.com/exynos5-mainline/pmaports.git","type":"git","repo":"exynos5-mainline-pmaports"}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/postmarketos-mkinitfs.git","type":"git","repo":"postmarketos-mkinitfs"}
+{"url":"https://github.com/yuzu-emu-mirror/ext-boost.git","type":"git","repo":"yuzu-ext-boost","private":true,"paused":true}
+{"url":"https://codeberg.org/libre-tegra/fusee-tools.git","type":"git","repo":"libre-tegra-fusee-tools"}
+{"url":"https://gitlab.com/exynos5-mainline/linux-downstream.git","type":"git","repo":"exynos5-mainline-linux-downstream"}

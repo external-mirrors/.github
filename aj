@@ -1,7 +1,9 @@
-{"url":"https://git.launchpad.net/ubuntu/+source/linux-nvidia-6.14","type":"git","repo":"linux-nvidia-6.14","ignore":{"heads":["importer/ubuntu/pristine-tar"]}}
-{"url":"https://git.sr.ht/~cloutier/bird.makeup","type":"git","repo":"bird.makeup","paused":true}
-{"url":"https://codeberg.org/ums9230-mainline/linux.git","type":"git","repo":"ums9230-mainline-linux"}
-{"url":"https://codeberg.org/forgejo/forgejo.git","type":"git","repo":"forgejo"}
+{"url":"https://github.com/yuzu-emu-mirror/Command-fix.git","type":"git","repo":"yuzu-Command-fix","private":true,"paused":true}
+{"url":"https://codeberg.org/cabochon/linux","type":"git","repo":"cabochon-linux"}
+{"url":"https://git.citron-emu.org/citron/emulator.git","type":"git","repo":"citron","private":true,"paused":true}
 {"url":"https://github.com/yuzu-emu-mirror/sirit.git","type":"git","repo":"yuzu-sirit","private":true,"paused":true}
-{"url":"https://github.com/yuzu-emu-mirror/ext-windows-bin.git","type":"git","repo":"yuzu-ext-windows-bin","private":true,"paused":true}
-{"url":"https://github.com/yuzu-emu-mirror/shared-hugo-scripts.git","type":"git","repo":"yuzu-shared-hugo-scripts","private":true,"paused":true}
+{"url":"https://git.gay/Fluxcord/ibiscore.git","type":"git","repo":"Fluxcord-ibiscore"}
+{"url":"https://gitlab.com/linux-wiiu/linux-wiiu-archive.git","type":"git","repo":"linux-wiiu-archive"}
+{"url":"https://codeberg.org/libre-tegra/libdrm.git","type":"git","repo":"libre-tegra-libdrm"}
+{"url":"https://gitlab.com/mtk-mainline/mt6768/linux.git","type":"git","repo":"mt6768-mainline-linux"}
+{"url":"https://gitlab.com/echo-pmos/amazon-checkers-kernel.git","type":"git","repo":"echo-pmos-amazon-checkers-kernel"}

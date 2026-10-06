@@ -1,9 +1,8 @@
-{"url":"https://https.git.savannah.gnu.org/git/bison.git","type":"git","repo":"bison"}
-{"url":"https://github.com/yuzu-emu-mirror/yuzu-emu.github.io.git","type":"git","repo":"yuzu-emu.github.io","private":true,"paused":true}
-{"url":"https://gitlab.com/mt6589-mainline/linux.git/","type":"git","repo":"mt6589-mainline-linux-tooniis"}
-{"url":"https://git.pleroma.social/pleroma/pleroma.git","type":"git","repo":"pleroma"}
-{"url":"https://gitlab.com/mtk-mainline/mt6768/linux.git","type":"git","repo":"mt6768-mainline-linux"}
-{"url":"https://github.com/yuzu-emu-mirror/.archive.git","type":"git","repo":"yuzu-archives","private":true,"paused":true}
-{"url":"https://codeberg.org/libre-tegra/mesa.git","type":"git","repo":"libre-tegra-mesa"}
-{"url":"https://codeberg.org/cabochon/u-boot","type":"git","repo":"cabochon-u-boot"}
+{"url":"https://gitlab.com/echo-pmos/pmaports.git","type":"git","repo":"echo-pmos-pmaports"}
 {"url":"https://gitlab.postmarketos.org/postmarketOS/systemd.git","type":"git","repo":"pmos-systemd"}
+{"url":"https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git","type":"git","repo":"linux-next"}
+{"url":"https://github.com/yuzu-emu-mirror/citra-qt-installer.git","type":"git","repo":"yuzu-citra-qt-installer","private":true,"paused":true}
+{"url":"https://github.com/yuzu-emu-mirror/shared-hugo-scripts.git","type":"git","repo":"yuzu-shared-hugo-scripts","private":true,"paused":true}
+{"url":"https://https.git.savannah.gnu.org/git/bison.git","type":"git","repo":"bison"}
+{"url":"https://github.com/citra-mirror/citra.git","type":"git","repo":"citra-mirror","private":true}
+{"url":"https://android.googlesource.com/kernel/mediatek","type":"git","repo":"aosp-kernel_mediatek"}
