@@ -1,9 +1,8 @@
-{"url":"https://gitlab.com/mt6735-mainline/u-boot.git","type":"git","repo":"mt6735-mainline-u-boot"}
-{"url":"https://git.gay/Fluxcord/core.git","type":"git","repo":"Fluxcord-core"}
-{"url":"https://gitlab.com/echo-pmos/pmaports.git","type":"git","repo":"echo-pmos-pmaports"}
+{"url":"https://gitlab.com/exynos5-mainline/linux.git","type":"git","repo":"exynos5-mainline-linux"}
+{"url":"https://github.com/yuzu-emu-mirror/shared-hugo-scripts.git","type":"git","repo":"yuzu-shared-hugo-scripts","private":true,"paused":true}
+{"url":"https://github.com/yuzu-emu-mirror/ext-linux-bin.git","type":"git","repo":"yuzu-ext-linux-bin","private":true,"paused":true}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/systemd.git","type":"git","repo":"pmos-systemd"}
 {"url":"https://codeberg.org/cabochon/barebox","type":"git","repo":"cabochon-barebox"}
-{"url":"https://gitlab.postmarketos.org/postmarketOS/postmarketos-mkinitfs.git","type":"git","repo":"postmarketos-mkinitfs"}
-{"url":"https://codeberg.org/libre-tegra/u-boot-nv-tegra.git","type":"git","repo":"libre-tegra-u-boot-nv-tegra"}
-{"url":"https://codeberg.org/libre-tegra/xf86-video-opentegra.git","type":"git","repo":"libre-tegra-xf86-video-opentegra"}
-{"url":"https://gitlab.postmarketos.org/postmarketOS/boot-deploy.git","type":"git","repo":"pmos-boot-deploy"}
-{"url":"https://codeberg.org/valpackett/linux-chatarra","type":"git","repo":"linux-chatarra"}
+{"url":"https://git.gay/Fluxcord/core.git","type":"git","repo":"Fluxcord-core"}
+{"url":"https://codeberg.org/libre-tegra/fusee-launcher-new.git","type":"git","repo":"libre-tegra-fusee-launcher-new"}
+{"url":"https://github.com/yuzu-emu-mirror/citra-qt-installer.git","type":"git","repo":"yuzu-citra-qt-installer","private":true,"paused":true}
