@@ -1,10 +1,8 @@
-{"url":"https://codeberg.org/ums9230-mainline/alsa-ucm-conf.git","type":"git","repo":"ums9230-mainline-alsa-ucm-conf"}
-{"url":"https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git","type":"git","repo":"linux-next"}
-{"url":"https://codeberg.org/libre-tegra/cbootimage.git","type":"git","repo":"libre-tegra-cbootimage"}
-{"url":"https://gitlab.com/echo-pmos/amazon-biscuit-vendor.git","type":"git","repo":"echo-pmos-amazon-biscuit-vendor"}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/pmbootstrap.git","type":"git","repo":"pmbootstrap"}
+{"url":"https://github.com/yuzu-emu-mirror/AppImageKit-checkrt.git","type":"git","repo":"yuzu-AppImageKit-checkrt","private":true,"paused":true}
 {"url":"https://gitlab.freedesktop.org/beignet/beignet.git","type":"git","repo":"beignet"}
-{"url":"https://gitlab.com/UniQMG/tpsecore.git","type":"git","repo":"tpsecore"}
-{"url":"https://https.git.savannah.gnu.org/git/nano.git","type":"git","repo":"nano"}
-{"url":"https://https.git.savannah.gnu.org/git/hurd/gnumach.git","type":"git","repo":"gnumach"}
-{"url":"https://git.sr.ht/~calebccff/pbsplash","type":"git","repo":"pbsplash"}
-{"url":"https://codeberg.org/cabochon/linux","type":"git","repo":"cabochon-linux"}
+{"url":"https://git.launchpad.net/ubuntu/+source/linux-nvidia-6.14","type":"git","repo":"linux-nvidia-6.14","ignore":{"heads":["importer/ubuntu/pristine-tar"]}}
+{"url":"https://gitlab.com/mtk-mainline/mt6768/linux.git","type":"git","repo":"mt6768-mainline-linux"}
+{"url":"https://github.com/yuzu-emu-mirror/discord-open-source.git","type":"git","repo":"yuzu-discord-open-source","private":true,"paused":true}
+{"url":"https://repo.dec05eba.com/phoenix","type":"git","repo":"phoenix"}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/gnss-share.git","type":"git","repo":"pmos-gnss-share"}
