@@ -1,9 +1,9 @@
-{"url":"https://gitlab.com/echo-pmos/amazon-biscuit-vendor.git","type":"git","repo":"echo-pmos-amazon-biscuit-vendor"}
-{"url":"https://akkoma.dev/AkkomaGang/akkoma.git","type":"git","repo":"akkoma"}
+{"url":"https://codeberg.org/libre-tegra/mesa-extra.git","type":"git","repo":"libre-tegra-mesa-extra"}
+{"url":"https://codeberg.org/cabochon/fw-build","type":"git","repo":"cabochon-fw-build"}
+{"url":"https://gitlab.freedesktop.org/pipewire/helvum.git","type":"git","repo":"helvum"}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/boot-deploy.git","type":"git","repo":"pmos-boot-deploy"}
+{"url":"https://gitlab.com/linux-wiiu/linux-loader.git","type":"git","repo":"linux-wiiu-linux-loader"}
 {"url":"https://git.gay/Fluxcord/voice.git","type":"git","repo":"Fluxcord-voice"}
-{"url":"https://codeberg.org/cabochon/linux","type":"git","repo":"cabochon-linux"}
-{"url":"https://github.com/yuzu-emu-mirror/yuzu-games-wiki.git","type":"git","repo":"yuzu-games-wiki","private":true,"paused":true}
-{"url":"https://gitlab.com/kernel-firmware/linux-firmware.git","type":"git","repo":"linux-firmware"}
-{"url":"https://github.com/yuzu-emu-mirror/discord-open-source.git","type":"git","repo":"yuzu-discord-open-source","private":true,"paused":true}
-{"url":"https://codeberg.org/libre-tegra/cbootimage.git","type":"git","repo":"libre-tegra-cbootimage"}
-{"url":"https://gitlab.postmarketos.org/postmarketOS/systemd.git","type":"git","repo":"pmos-systemd"}
+{"url":"https://gitlab.com/UniQMG/tetrio-plus.git","type":"git","repo":"tetrio-plus"}
+{"url":"https://git.wut.ee/mikroskeem/aur-buildbot.git","type":"git","repo":"aur-buildbot"}
+{"url":"https://codeberg.org/libre-tegra/firmware.git","type":"git","repo":"libre-tegra-firmware"}
