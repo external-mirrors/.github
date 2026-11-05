@@ -1,10 +1,4 @@
-{"url":"https://gitlab.com/linux-wiiu/linux-loader.git","type":"git","repo":"linux-wiiu-linux-loader"}
-{"url":"https://https.git.savannah.gnu.org/git/nano.git","type":"git","repo":"nano"}
-{"url":"https://git.gay/Fluxcord/voice.git","type":"git","repo":"Fluxcord-voice"}
-{"url":"https://codeberg.org/libre-tegra/user-documentation.git","type":"git","repo":"libre-tegra-user-documentation"}
-{"url":"https://gitlab.com/ubports/development/core/lomiri.git","type":"git","repo":"lomiri"}
-{"url":"https://gitlab.com/sleirsgoevy/zimage64.git","type":"git","repo":"zimage64"}
-{"url":"https://gitlab.com/sm6225-mainline/linux.git","type":"git","repo":"sm6225-mainline-linux"}
-{"url":"https://gitlab.com/android_translation_layer/art_standalone.git","type":"git","repo":"android_translation_layer-art_standalone"}
-{"url":"https://git.wut.ee/mikroskeem/aur-buildbot.git","type":"git","repo":"aur-buildbot"}
-{"url":"https://git.launchpad.net/ubuntu/+source/linux-nvidia-7.0","type":"git","repo":"linux-nvidia-7.0","ignore":{"heads":["importer/ubuntu/pristine-tar"]}}
+{"url":"https://gitlab.freedesktop.org/xorg/xserver.git","type":"git","repo":"xorg-xserver"}
+{"url":"https://gitlab.freedesktop.org/libinput/libinput.git","type":"git","repo":"libinput"}
+{"url":"https://gitlab.com/mtk-mainline/mt6755/linux.git","type":"git","repo":"mt6755-mainline-linux"}
+{"url":"https://github.com/yuzu-emu-mirror/discord-rpc.git","type":"git","repo":"yuzu-discord-rpc","private":true,"paused":true}
