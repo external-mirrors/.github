@@ -1,7 +1,9 @@
-{"url":"https://android.googlesource.com/kernel/mediatek","type":"git","repo":"aosp-kernel_mediatek"}
-{"url":"https://github.com/yuzu-emu-mirror/build-environments.git","type":"git","repo":"yuzu-build-environments","private":true,"paused":true}
-{"url":"https://gitlab.com/linux-wiiu/linux-loader.git","type":"git","repo":"linux-wiiu-linux-loader"}
-{"url":"https://github.com/yuzu-emu-mirror/citra-qt-installer.git","type":"git","repo":"yuzu-citra-qt-installer","private":true,"paused":true}
-{"url":"https://https.git.savannah.gnu.org/git/hurd/hurd.git","type":"git","repo":"hurd"}
-{"url":"https://gitlab.com/echo-pmos/amazon-baklava-kernel.git","type":"git","repo":"echo-pmos-amazon-baklava-kernel"}
-{"url":"https://gerrit-public.fairphone.software/manifest","type":"git","repo":"fairphone-manifest"}
+{"url":"https://codeberg.org/cabochon/depthcharge-tools","type":"git","repo":"cabochon-depthcharge-tools"}
+{"url":"https://git.code.sf.net/p/linuxjm/code","type":"git","repo":"linuxjm"}
+{"url":"https://git.eden-emu.dev/eden-emu/eden.git","type":"git","repo":"eden","private":true,"paused":true}
+{"url":"https://git.launchpad.net/ubuntu/+source/linux-nvidia-6.17","type":"git","repo":"linux-nvidia-6.17","ignore":{"heads":["importer/ubuntu/pristine-tar"]}}
+{"url":"https://github.com/yuzu-emu-mirror/breakpad.git","type":"git","repo":"yuzu-breakpad","private":true,"paused":true}
+{"url":"https://codeberg.org/grunfink/snac2","type":"git","repo":"snac2"}
+{"url":"https://gitlab.com/android_translation_layer/android_translation_layer.git","type":"git","repo":"android_translation_layer"}
+{"url":"https://github.com/citra-mirror/citra.git","type":"git","repo":"citra-mirror","private":true}
+{"url":"https://gitlab.com/exynos5-mainline/pmaports.git","type":"git","repo":"exynos5-mainline-pmaports"}
