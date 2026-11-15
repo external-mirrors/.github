@@ -1,8 +1,9 @@
-{"url":"https://gitlab.com/android_translation_layer/art_standalone.git","type":"git","repo":"android_translation_layer-art_standalone"}
-{"url":"https://gitlab.com/echo-pmos/amazon-checkers-kernel.git","type":"git","repo":"echo-pmos-amazon-checkers-kernel"}
+{"url":"https://gitlab.com/exynos5-mainline/linux.git","type":"git","repo":"exynos5-mainline-linux"}
+{"url":"https://gitlab.postmarketos.org/postmarketOS/buffybox.git","type":"git","repo":"buffybox"}
+{"url":"https://https.git.savannah.gnu.org/git/hurd/gnumach.git","type":"git","repo":"gnumach"}
+{"url":"https://gerrit-public.fairphone.software/manifest","type":"git","repo":"fairphone-manifest"}
+{"url":"https://github.com/yuzu-emu-mirror/yuzu-assets.git","type":"git","repo":"yuzu-yuzu-assets","private":true,"paused":true}
 {"url":"https://gitlab.com/linux-wiiu/linux-loader.git","type":"git","repo":"linux-wiiu-linux-loader"}
-{"url":"https://codeberg.org/libre-tegra/asus-blob-tools.git","type":"git","repo":"libre-tegra-asus-blob-tools"}
-{"url":"git://linux-libre.fsfla.org/releases.git","type":"git","repo":"linux-libre"}
-{"url":"https://codeberg.org/cabochon/cros-linuxboot","type":"git","repo":"cabochon-cros-linuxboot"}
-{"url":"https://github.com/yuzu-emu-mirror/citra-qt-installer.git","type":"git","repo":"yuzu-citra-qt-installer","private":true,"paused":true}
-{"url":"https://gitlab.com/linux-wiiu/linux-wiiu.git","type":"git","repo":"linux-wiiu"}
+{"url":"https://codeberg.org/cabochon/depthcharge-tools","type":"git","repo":"cabochon-depthcharge-tools"}
+{"url":"https://git.citron-emu.org/citron/emulator.git","type":"git","repo":"citron","private":true,"paused":true}
+{"url":"https://codeberg.org/libre-tegra/xf86-video-opentegra.git","type":"git","repo":"libre-tegra-xf86-video-opentegra"}
