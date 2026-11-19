@@ -284,5 +284,9 @@
     "url": "https://codeberg.org/valpackett/linux-chatarra",
     "type": "git",
     "repo": "linux-chatarra"
+  }, {
+    "url": "https://git.sr.ht/~anjan/sxmo.org",
+    "type": "git",
+    "repo": "sxmo"
   }
 ]
