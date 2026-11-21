@@ -25,17 +25,6 @@
     "repo": "aosp-kernel_mediatek"
   },
   {
-    "url": "https://git.ti.com/git/graphics/omap5-sgx-ddk-linux.git",
-    "type": "git",
-    "repo": "omap5-sgx-ddk-linux"
-  },
-  {
-    "url": "https://git.ti.com/git/graphics/omap5-sgx-ddk-um-linux.git",
-    "type": "git",
-    "repo": "omap5-sgx-ddk-um-linux",
-    "private": true
-  },
-  {
     "url": "https://codeberg.org/silverpill/mitra.git",
     "type": "git",
     "repo": "mitra"

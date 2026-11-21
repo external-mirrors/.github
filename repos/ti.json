@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://git.ti.com/git/graphics/omap5-sgx-ddk-linux.git",
+    "type": "git",
+    "repo": "omap5-sgx-ddk-linux"
+  },
+  {
+    "url": "https://git.ti.com/git/graphics/omap5-sgx-ddk-um-linux.git",
+    "type": "git",
+    "repo": "omap5-sgx-ddk-um-linux",
+    "private": true
+  },
+  {
+    "url": "https://git.ti.com/git/ti-linux-kernel/ti-linux-kernel-next.git",
+    "type": "git",
+    "repo": "ti-linux-kernel-next"
+  }
+]
