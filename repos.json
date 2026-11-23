@@ -277,5 +277,9 @@
     "url": "https://git.sr.ht/~anjan/sxmo.org",
     "type": "git",
     "repo": "sxmo"
+  }, {
+    "url": "https://codeberg.org/sm61x5-mainline/linux.git",
+    "type": "git",
+    "repo": "sm61x5-mainline-linux"
   }
 ]
