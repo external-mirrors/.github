@@ -1,9 +1,3 @@
-{"url":"https://codeberg.org/libre-tegra/re-crypt.git","type":"git","repo":"libre-tegra-re-crypt"}
-{"url":"https://codeberg.org/cabochon/u-boot","type":"git","repo":"cabochon-u-boot"}
-{"url":"https://github.com/yuzu-emu-mirror/breakpad.git","type":"git","repo":"yuzu-breakpad","private":true,"paused":true}
-{"url":"https://github.com/yuzu-emu-mirror/ext-boost.git","type":"git","repo":"yuzu-ext-boost","private":true,"paused":true}
-{"url":"https://git.gay/Fluxcord/dev.git","type":"git","repo":"Fluxcord-dev"}
-{"url":"https://gitlab.com/mediatek/aiot/rity/meta-mediatek-experimental.git","type":"git","repo":"mediatek-aiot-rity-meta-mediatek-experimental"}
-{"url":"https://gitlab.com/mediatek/aiot/rity/onnxruntime-prebuilt.git","type":"git","repo":"mediatek-aiot-rity-onnxruntime-prebuilt"}
-{"url":"https://github.com/yuzu-emu-mirror/yuzu-emu.github.io.git","type":"git","repo":"yuzu-emu.github.io","private":true,"paused":true}
-{"url":"https://github.com/yuzu-emu-mirror/discord-rpc.git","type":"git","repo":"yuzu-discord-rpc","private":true,"paused":true}
+{"url":"https://git.gay/Fluxcord/voice.git","type":"git","repo":"Fluxcord-voice"}
+{"url":"https://gitlab.com/mt6735-mainline/linux.git","type":"git","repo":"mt6735-mainline-linux"}
+{"url":"https://git.sr.ht/~leon_plickat/wayneko","type":"git","repo":"wayneko"}
